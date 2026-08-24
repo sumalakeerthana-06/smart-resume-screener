@@ -1,0 +1,77 @@
+{
+  "name": "SUMALA KEERTHANA",
+  "email": "sumalakeerthana@gmail.com",
+  "phone": "6302280256",
+  "skills": [
+    "Java",
+    "Python",
+    "C",
+    "C++",
+    "SQL",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "OOPS",
+    "Data Structures",
+    "Generative AI",
+    "Prompt Engineering",
+    "UI/UX Design",
+    "Figma"
+  ],
+  "languages_known": [
+    "Telugu",
+    "English"
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "field": "Computer Science and Engineering",
+      "institution": "VIT-AP University",
+      "year": "2023–2027",
+      "grade": "8.85/10"
+    },
+    {
+      "degree": "Class 12",
+      "field": "",
+      "institution": "RGUKT-IIIT,Idupulapaaya",
+      "year": "2021–2023",
+      "grade": "96%"
+    },
+    {
+      "degree": "SSC",
+      "field": "",
+      "institution": "Montessori Indus High School",
+      "year": "2020",
+      "grade": "97%"
+    }
+  ],
+  "experience": [],
+  "projects": [
+    {
+      "name": "Resume Screening Assistant",
+      "description": "Intelligent Resume Analysis – Uses Generative AI to read, summarize, and extract key skills, experiences, and achievements from resumes, matching them against job requirements. Smart Candidate Shortlisting – Automatically categorizes and ranks candidates by relevance, while reducing bias and adapting with recruiter feedback.",
+      "technologies": [
+        "Generative AI"
+      ]
+    },
+    {
+      "name": "Soft Computing Project",
+      "description": "Fuzzy Logic Navigation – Designed a drone navigation system that makes real-time flight decisions using fuzzy rules. Genetic Algorithm Optimization – Enhanced path efficiency and obstacle avoidance by evolving the fuzzy control parameters.",
+      "technologies": [
+        "Fuzzy Logic",
+        "Genetic Algorithm"
+      ]
+    },
+    {
+      "name": "IOT Project",
+      "description": "Drowsiness Detection System Designed smart glasses with IR sensors using Arduino Nano. Triggered alerts using a buzzer and relay when prolonged eye closure detected.",
+      "technologies": [
+        "Arduino Nano",
+        "IOT",
+        "IR sensors"
+      ]
+    }
+  ],
+  "summary": "I am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to impactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative club activities, I am eager to further develop my knowledge through practical applications in innovative tech environments"
+}

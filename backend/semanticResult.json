@@ -1,0 +1,31 @@
+{
+  "semantic_score": 75,
+  "strong_matches": [
+    "Java",
+    "Python",
+    "SQL",
+    "JavaScript",
+    "React",
+    "Data Structures",
+    "Bachelor's degree in Computer Science (ongoing B.Tech)"
+  ],
+  "partial_matches": [
+    "0-2 years of experience or relevant academic projects (satisfied via academic projects as no professional experience is listed)"
+  ],
+  "missing_requirements": [
+    "Node.js",
+    "problem-solving (explicitly stated skill, though implied through projects)",
+    "Git",
+    "GitHub",
+    "MongoDB",
+    "REST APIs"
+  ],
+  "justification": "The candidate matches several core technical requirements including Java, Python, SQL, JavaScript, React, and Data Structures, and is currently pursuing a relevant B.Tech in Computer Science. However, they are missing backend technologies like Node.js and MongoDB, as well as version control tools like Git and GitHub which are preferred in the job description.",
+  "required_education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Science or related field"
+    }
+  ],
+  "required_experience": "0-2 years of experience or relevant academic projects."
+}

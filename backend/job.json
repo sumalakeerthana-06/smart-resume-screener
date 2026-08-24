@@ -1,0 +1,27 @@
+{
+  "job_title": "Software Developer Intern",
+  "required_skills": [
+    "Java",
+    "Python",
+    "SQL",
+    "Data Structures and Algorithms",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "problem-solving"
+  ],
+  "preferred_skills": [
+    "Git",
+    "GitHub",
+    "MongoDB",
+    "REST APIs"
+  ],
+  "required_education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Science or related field"
+    }
+  ],
+  "required_experience": "0-2 years of experience or relevant academic projects.",
+  "responsibilities": []
+}

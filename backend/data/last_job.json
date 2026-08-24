@@ -1,0 +1,38 @@
+{
+  "job_title": "Full Stack Web Developer",
+  "required_skills": [
+    "React",
+    "Next.js",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Python",
+    "FastAPI",
+    "Django",
+    "REST APIs",
+    "GraphQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "AWS",
+    "GCP",
+    "CI/CD pipelines",
+    "Git"
+  ],
+  "preferred_skills": [],
+  "required_education": [
+    {
+      "degree": "Bachelor's or equivalent",
+      "field": "Computer Science"
+    }
+  ],
+  "required_experience": "1-3 years",
+  "responsibilities": [
+    "Build modern web applications"
+  ],
+  "domain": "Web Development"
+}

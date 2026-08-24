@@ -1,0 +1,3250 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "created_at": "2026-08-24T06:37:48.407Z",
+    "updated_at": "2026-08-24T12:22:26.868Z"
+  },
+  "candidates": [
+    {
+      "id": "cand_1787574146847_84a0eced",
+      "name": "Gokavarapu Sai Lalithya",
+      "skills": [
+        "Java",
+        "C",
+        "Verilog",
+        "Altium Designer",
+        "Xilinx Vivado",
+        "Cadence Virtuoso",
+        "MATLAB",
+        "Arduino",
+        "ARM",
+        "8085",
+        "ASIC Physical Design",
+        "PCB Design",
+        "Schematic Capture",
+        "PCB Layout",
+        "DRC/ERC",
+        "3D PCB Visualization",
+        "RTL to GDSII",
+        "Synthesis",
+        "Floorplanning",
+        "Placement",
+        "Routing",
+        "Static Timing Analysis",
+        "Physical Verification",
+        "LVS"
+      ],
+      "languages_known": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "German"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Electronics and Communication Engineering (VLSI)",
+          "institution": "VIT-AP University, Amaravati",
+          "year": "2023–2027",
+          "grade": "9.07/10"
+        },
+        {
+          "degree": "Class XII (MPC)",
+          "field": "MPC",
+          "institution": "Narayana Junior College, Vizianagaram",
+          "year": "2021–2023",
+          "grade": "97.8%"
+        },
+        {
+          "degree": "Class X",
+          "field": "",
+          "institution": "The Sun School (CBSE)",
+          "year": "2020–2021",
+          "grade": "93.2%"
+        }
+      ],
+      "experience": [
+        {
+          "company": "National Institute of Technology Rourkela",
+          "role": "PCB Design Intern",
+          "duration": "May 2025 – Jul 2025",
+          "description": "Designed a biomedical micro syringe pump PCB using Altium Designer, including schematic capture, optimized PCB layout, and integration of ESP32-S, CP2102 USB-UART, ULN2003/A4988 stepper drivers, and a 3.5” TFT touchscreen (XPT2046) for real-time control. Developed a multi-stage power regulation system (12V → 9V → 5V/3.3V) using LM2596S, AMS1117, and R-78E to ensure stable and efficient power delivery for all modules. Performed DRC/ERC checks and 3D PCB visualization in Altium Designer to validate electrical correctness, manufacturability, and ensure fabrication-ready hardware output.",
+          "technologies": [
+            "Altium Designer",
+            "ESP32-S",
+            "CP2102 USB-UART",
+            "ULN2003",
+            "A4988",
+            "LM2596S",
+            "AMS1117",
+            "R-78E"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "name": "Physical Design Implementation of SPI using Qflow",
+          "description": "Implemented complete ASIC physical design flow from RTL to GDSII using Qflow, covering synthesis, floorplanning, placement, routing, and sign-off stages. Performed static timing analysis and physical verification to achieve timing closure and ensure DRC and LVS clean chip layouts. Gained hands-on experience in digital chip implementation, strengthening understanding of semiconductor physical design workflows and chip fabrication process.",
+          "technologies": [
+            "Qflow",
+            "RTL",
+            "GDSII"
+          ]
+        },
+        {
+          "name": "Driver Drowsiness Detection System",
+          "description": "Developed a real-time driver monitoring system using Arduino Nano, IR sensor, relay module and buzzer. Triggered vehicle stop and alarm upon prolonged eye closure to improve road safety.",
+          "technologies": [
+            "Arduino Nano",
+            "IR sensor",
+            "Relay module",
+            "Buzzer"
+          ]
+        },
+        {
+          "name": "Enhanced Railway Safety Automated Alert System",
+          "description": "Built an Arduino-based railway monitoring prototype using IR and ultrasonic sensors. Integrated GPS (NEO-6M) and GSM (SIM800) modules for real-time location-based alerts and automatic train stoppage.",
+          "technologies": [
+            "Arduino",
+            "IR sensors",
+            "Ultrasonic sensors",
+            "GPS (NEO-6M)",
+            "GSM (SIM800)"
+          ]
+        }
+      ],
+      "raw_text_preview": "Gokavarapu Sai Lalithya\n# sailalithyagokavarapu@gmail.com —  +91-7702257130 — ï Sai Lalithya Gokavarapu\nPROFILE\nElectronics and Communication Engineering undergraduate at VIT-AP University, specializing in VLSI with strong\ninterest in ASIC Physical Design and PCB Design. Experienced in custom PCB development and passionate about\nbuilding innovative and reliable hardware solutions for real-world engineering problems. A dedicated learner focused on\ncontinuous skill development and staying updated",
+      "created_at": "2026-08-24T12:22:26.848Z"
+    },
+    {
+      "id": "cand_1787574146770_8bc221d6",
+      "name": "SUMALA KEERTHANA",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "OOPS",
+        "Data Structures",
+        "Generative AI",
+        "Prompt Engineering",
+        "UI/UX Design",
+        "Figma"
+      ],
+      "languages_known": [
+        "Telugu",
+        "English"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "8.85/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "RGUKT-IIIT,Idupulapaaya",
+          "year": "2021–2023",
+          "grade": "96%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Montessori Indus High School",
+          "year": "2020",
+          "grade": "97%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Resume Screening Assistant",
+          "description": "Intelligent Resume Analysis – Uses Generative AI to read, summarize, and extract key skills, experiences, and achievements from resumes, matching them against job requirements. Smart Candidate Shortlisting – Automatically categorizes and ranks candidates by relevance, while reducing bias and adapting with recruiter feedback.",
+          "technologies": [
+            "Generative AI"
+          ]
+        },
+        {
+          "name": "Soft Computing Project",
+          "description": "Fuzzy Logic Navigation – Designed a drone navigation system that makes real-time flight decisions using fuzzy rules. Genetic Algorithm Optimization – Enhanced path efficiency and obstacle avoidance by evolving the fuzzy control parameters.",
+          "technologies": [
+            "Fuzzy Logic",
+            "Genetic Algorithm"
+          ]
+        },
+        {
+          "name": "IOT Project",
+          "description": "Drowsiness Detection System Designed smart glasses with IR sensors using Arduino Nano. Triggered alerts using a buzzer and relay when prolonged eye closure detected.",
+          "technologies": [
+            "Arduino Nano",
+            "IOT",
+            "IR sensors"
+          ]
+        }
+      ],
+      "raw_text_preview": "SUMALA KEERTHANA\n# sumalakeerthana@gmail.com —  6302280256 — ï LinkedIn — § GitHub\nProfile\nI am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to\nimpactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative\nclub activities, I am eager to further develop my knowledge through practical applications in innovative tech\nenvironments\nProjects\nResume Screening Assistant 2025\n• Intelligent Resume Anal",
+      "created_at": "2026-08-24T12:22:26.770Z"
+    },
+    {
+      "id": "cand_1787574146461_17ffe508",
+      "name": "Pawar Sruthi",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "React.js",
+        "REST APIs",
+        "Git",
+        "OOP",
+        "Data Structures",
+        "SDLC"
+      ],
+      "languages_known": [
+        "Telugu",
+        "Hindi",
+        "English",
+        "Marathi"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "9.18/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "Sri Chaitanya Junior College, Guntur",
+          "year": "2021–2023",
+          "grade": "97.4%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Gitams High School",
+          "year": "2020",
+          "grade": "99%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Driver Drowsiness Detection System",
+          "description": "Developed a real-time driver drowsiness detection system using an IR sensor and Arduino Nano to monitor eye closure. Implemented an alert mechanism with a buzzer and relay module to notify the driver and halt the vehicle upon detecting prolonged drowsiness.",
+          "technologies": [
+            "IR sensor",
+            "Arduino Nano",
+            "Buzzer",
+            "Relay module"
+          ]
+        },
+        {
+          "name": "Fitness Tracker Web Application",
+          "description": "Built a full-stack fitness tracker with secure user authentication and workout management features. Implemented CRUD operations and RESTful APIs using Node.js, Express.js, and MongoDB with a responsive React.js frontend.",
+          "technologies": [
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "React.js",
+            "RESTful APIs"
+          ]
+        },
+        {
+          "name": "Pothole Detection System",
+          "description": "Developed a sensor-based pothole detection system using an ultrasonic sensor to detect road surface irregularities in real time. Integrated GPS to capture the location of detected potholes, enabling efficient reporting and improving road maintenance planning.",
+          "technologies": [
+            "Ultrasonic sensor",
+            "GPS"
+          ]
+        }
+      ],
+      "raw_text_preview": "Pawar Sruthi\n# sruthipawar455@gmail.com —  9618051459 — ï LinkedIn\nProfile\nMotivated B.Tech Computer Science and Engineering student at VIT-AP University with a strong foundation\nin Java, C, Python, SQL, HTML, CSS, JavaScript, and MongoDB. Passionate about full-stack web development\nand software engineering, with hands-on experience building web applications and embedded systems projects.\nSkilled in problem-solving, debugging, and collaborating in team environments. An active participant in tec",
+      "created_at": "2026-08-24T12:22:26.461Z"
+    },
+    {
+      "id": "cand_1787574145939_97307aab",
+      "name": "Vijay Kumar Doddaka",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (ES6+)",
+        "React.js",
+        "MySQL",
+        "NoSQL",
+        "Interface Design",
+        "User Experience (UX)",
+        "Figma",
+        "VS Code",
+        "Git & GitHub",
+        "Netlify",
+        "Render"
+      ],
+      "languages_known": [
+        "English",
+        "Hindi",
+        "Telugu"
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Technology",
+          "field": "Computer Science And Engineering",
+          "institution": "VIT-AP University",
+          "year": "06/2027",
+          "grade": ""
+        },
+        {
+          "degree": "Intermediate",
+          "field": "MPC",
+          "institution": "Sri Chaitanya Junior College",
+          "year": "05/2023",
+          "grade": ""
+        },
+        {
+          "degree": "Secondary School",
+          "field": "High School",
+          "institution": "Sri Chaitanya High School",
+          "year": "03/2021",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Grade Calculation System for B.Tech Students",
+          "description": "Developed a web-based utility tool tailored for engineering students to calculate CGPA/SGPA based on university grading systems. Built robust backend logic to accurately compute complex academic weightage and criteria while handling edge-case inputs gracefully. Utilized clean database logic to store grade structures, reducing manual calculation errors to zero.",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL/NoSQL"
+          ]
+        },
+        {
+          "name": "Full Stack Development",
+          "description": "Designed and engineered a dynamic, responsive fitness tracking application using React.js to monitor daily user health metrics and workouts. Implemented interactive user interface components to ensure a seamless, engaging UX, optimizing state management for real-time updates. Successfully deployed the production-ready application using cloud hosting platforms to ensure high availability.",
+          "technologies": [
+            "React.js",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Netlify/Render"
+          ]
+        }
+      ],
+      "raw_text_preview": "Vijay Kumar Doddaka Guntur, AP 522213\n+91 8341316695\nvijay7093396539@gmail.com\nPROFESSIONAL SUMMARY\nDetail-oriented and analytical Full Stack Engineer with a strong\nfoundation in Computer Science and Engineering. Passionate about\nbuilding scalable web applications, designing intuitive user\nexperiences, and optimizing database performance. Proficient in\nmodern frontend frameworks like React.js along side robust backend\nand database management skills. Proven ability to translate complex\nlogic into",
+      "created_at": "2026-08-24T12:22:25.940Z"
+    },
+    {
+      "id": "cand_1787567156926_42406b61",
+      "name": "Gokavarapu Sai Lalithya",
+      "skills": [
+        "Java",
+        "C",
+        "Verilog",
+        "Altium Designer",
+        "Xilinx Vivado",
+        "Cadence Virtuoso",
+        "MATLAB",
+        "Arduino",
+        "ARM",
+        "8085",
+        "ASIC Physical Design",
+        "PCB Design",
+        "Schematic Capture",
+        "PCB Layout",
+        "DRC",
+        "ERC",
+        "Static Timing Analysis",
+        "Physical Verification",
+        "LVS"
+      ],
+      "languages_known": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "German"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Electronics and Communication Engineering (VLSI)",
+          "institution": "VIT-AP University, Amaravati",
+          "year": "2023–2027",
+          "grade": "9.07/10"
+        },
+        {
+          "degree": "Class XII (MPC)",
+          "field": "MPC",
+          "institution": "Narayana Junior College, Vizianagaram",
+          "year": "2021–2023",
+          "grade": "97.8%"
+        },
+        {
+          "degree": "Class X",
+          "field": "",
+          "institution": "The Sun School (CBSE)",
+          "year": "2020–2021",
+          "grade": "93.2%"
+        }
+      ],
+      "experience": [
+        {
+          "company": "National Institute of Technology Rourkela",
+          "role": "PCB Design Intern",
+          "duration": "May 2025 – Jul 2025",
+          "description": "Designed a biomedical micro syringe pump PCB using Altium Designer, including schematic capture, optimized PCB layout, and integration of ESP32-S, CP2102 USB-UART, ULN2003/A4988 stepper drivers, and a 3.5” TFT touchscreen (XPT2046) for real-time control. Developed a multi-stage power regulation system (12V → 9V → 5V/3.3V) using LM2596S, AMS1117, and R-78E to ensure stable and efficient power delivery for all modules. Performed DRC/ERC checks and 3D PCB visualization in Altium Designer to validate electrical correctness, manufacturability, and ensure fabrication-ready hardware output.",
+          "technologies": [
+            "Altium Designer",
+            "ESP32-S",
+            "CP2102",
+            "ULN2003",
+            "A4988",
+            "XPT2046",
+            "LM2596S",
+            "AMS1117",
+            "R-78E"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "name": "Physical Design Implementation of SPI using Qflow",
+          "description": "Implemented complete ASIC physical design flow from RTL to GDSII using Qflow, covering synthesis, floorplanning, placement, routing, and sign-off stages. Performed static timing analysis and physical verification to achieve timing closure and ensure DRC and LVS clean chip layouts. Gained hands-on experience in digital chip implementation, strengthening understanding of semiconductor physical design workflows and chip fabrication process.",
+          "technologies": [
+            "Qflow",
+            "RTL",
+            "GDSII"
+          ]
+        },
+        {
+          "name": "Driver Drowsiness Detection System",
+          "description": "Developed a real-time driver monitoring system using Arduino Nano, IR sensor, relay module and buzzer. Triggered vehicle stop and alarm upon prolonged eye closure to improve road safety.",
+          "technologies": [
+            "Arduino Nano",
+            "IR sensor",
+            "Relay module",
+            "Buzzer"
+          ]
+        },
+        {
+          "name": "Enhanced Railway Safety Automated Alert System",
+          "description": "Built an Arduino-based railway monitoring prototype using IR and ultrasonic sensors. Integrated GPS (NEO-6M) and GSM (SIM800) modules for real-time location-based alerts and automatic train stoppage.",
+          "technologies": [
+            "Arduino",
+            "IR sensor",
+            "Ultrasonic sensor",
+            "NEO-6M GPS",
+            "SIM800 GSM"
+          ]
+        }
+      ],
+      "raw_text_preview": "Gokavarapu Sai Lalithya\n# sailalithyagokavarapu@gmail.com —  +91-7702257130 — ï Sai Lalithya Gokavarapu\nPROFILE\nElectronics and Communication Engineering undergraduate at VIT-AP University, specializing in VLSI with strong\ninterest in ASIC Physical Design and PCB Design. Experienced in custom PCB development and passionate about\nbuilding innovative and reliable hardware solutions for real-world engineering problems. A dedicated learner focused on\ncontinuous skill development and staying updated",
+      "created_at": "2026-08-24T10:25:56.926Z"
+    },
+    {
+      "id": "cand_1787567156883_0197f8e8",
+      "name": "Pawar Sruthi",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "OOP",
+        "Data Structures",
+        "SDLC",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "React.js",
+        "REST APIs",
+        "Git",
+        "Arduino Nano",
+        "Database Performance Tuning",
+        "SQL Query Optimization"
+      ],
+      "languages_known": [
+        "Telugu",
+        "Hindi",
+        "English",
+        "Marathi"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "9.18/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "Sri Chaitanya Junior College, Guntur",
+          "year": "2021–2023",
+          "grade": "97.4%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Gitams High School",
+          "year": "2020",
+          "grade": "99%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Driver Drowsiness Detection System",
+          "description": "Developed a real-time driver drowsiness detection system using an IR sensor and Arduino Nano to monitor eye closure. Implemented an alert mechanism with a buzzer and relay module to notify the driver and halt the vehicle upon detecting prolonged drowsiness.",
+          "technologies": [
+            "IR sensor",
+            "Arduino Nano",
+            "Buzzer",
+            "Relay module"
+          ]
+        },
+        {
+          "name": "Fitness Tracker Web Application",
+          "description": "Built a full-stack fitness tracker with secure user authentication and workout management features. Implemented CRUD operations and RESTful APIs using Node.js, Express.js, and MongoDB with a responsive React.js frontend.",
+          "technologies": [
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "React.js",
+            "RESTful APIs"
+          ]
+        },
+        {
+          "name": "Pothole Detection System",
+          "description": "Developed a sensor-based pothole detection system using an ultrasonic sensor to detect road surface irregularities in real time. Integrated GPS to capture the location of detected potholes, enabling efficient reporting and improving road maintenance planning.",
+          "technologies": [
+            "Ultrasonic sensor",
+            "GPS"
+          ]
+        }
+      ],
+      "raw_text_preview": "Pawar Sruthi\n# sruthipawar455@gmail.com —  9618051459 — ï LinkedIn\nProfile\nMotivated B.Tech Computer Science and Engineering student at VIT-AP University with a strong foundation\nin Java, C, Python, SQL, HTML, CSS, JavaScript, and MongoDB. Passionate about full-stack web development\nand software engineering, with hands-on experience building web applications and embedded systems projects.\nSkilled in problem-solving, debugging, and collaborating in team environments. An active participant in tec",
+      "created_at": "2026-08-24T10:25:56.883Z"
+    },
+    {
+      "id": "cand_1787567156481_6e93cb6f",
+      "name": "SUMALA KEERTHANA",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "OOPS",
+        "Data Structures",
+        "Generative AI",
+        "Prompt Engineering",
+        "Figma",
+        "UI/UX Design",
+        "Arduino Nano"
+      ],
+      "languages_known": [
+        "Telugu",
+        "English"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "8.85/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "RGUKT-IIIT,Idupulapaaya",
+          "year": "2021–2023",
+          "grade": "96%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Montessori Indus High School",
+          "year": "2020",
+          "grade": "97%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Resume Screening Assistant",
+          "description": "Intelligent Resume Analysis using Generative AI to read, summarize, and extract key skills, experiences, and achievements from resumes, matching them against job requirements. Smart Candidate Shortlisting automatically categorizes and ranks candidates by relevance while reducing bias.",
+          "technologies": [
+            "Generative AI"
+          ]
+        },
+        {
+          "name": "Soft Computing Project",
+          "description": "Fuzzy Logic Navigation designed a drone navigation system that makes real-time flight decisions using fuzzy rules. Genetic Algorithm Optimization enhanced path efficiency and obstacle avoidance by evolving fuzzy control parameters.",
+          "technologies": [
+            "Fuzzy Logic",
+            "Genetic Algorithm"
+          ]
+        },
+        {
+          "name": "IOT Project",
+          "description": "Drowsiness Detection System designed smart glasses with IR sensors using Arduino Nano, triggering alerts using a buzzer and relay when prolonged eye closure is detected.",
+          "technologies": [
+            "Arduino Nano",
+            "IR sensors",
+            "IoT"
+          ]
+        }
+      ],
+      "raw_text_preview": "SUMALA KEERTHANA\n# sumalakeerthana@gmail.com —  6302280256 — ï LinkedIn — § GitHub\nProfile\nI am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to\nimpactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative\nclub activities, I am eager to further develop my knowledge through practical applications in innovative tech\nenvironments\nProjects\nResume Screening Assistant 2025\n• Intelligent Resume Anal",
+      "created_at": "2026-08-24T10:25:56.481Z"
+    },
+    {
+      "id": "cand_1787557268826_23c7c858",
+      "name": "Gokavarapu Sai Lalithya",
+      "skills": [
+        "Java",
+        "C",
+        "Verilog",
+        "Altium Designer",
+        "Xilinx Vivado",
+        "Cadence Virtuoso",
+        "MATLAB",
+        "Arduino",
+        "ARM",
+        "8085",
+        "ASIC Physical Design",
+        "PCB Design",
+        "Schematic Capture",
+        "PCB Layout",
+        "DRC/ERC",
+        "Static Timing Analysis",
+        "ASIC",
+        "RTL to GDSII",
+        "Embedded Systems"
+      ],
+      "languages_known": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "German"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech in Electronics and Communication Engineering (VLSI)",
+          "field": "Electronics and Communication Engineering (VLSI)",
+          "institution": "VIT-AP University, Amaravati",
+          "year": "2023–2027",
+          "grade": "9.07/10"
+        },
+        {
+          "degree": "Class XII (MPC)",
+          "field": "MPC",
+          "institution": "Narayana Junior College, Vizianagaram",
+          "year": "2021–2023",
+          "grade": "97.8%"
+        },
+        {
+          "degree": "Class X",
+          "field": "",
+          "institution": "The Sun School (CBSE)",
+          "year": "2020–2021",
+          "grade": "93.2%"
+        }
+      ],
+      "experience": [
+        {
+          "company": "National Institute of Technology Rourkela",
+          "role": "PCB Design Intern",
+          "duration": "May 2025 – Jul 2025",
+          "description": "Designed a biomedical micro syringe pump PCB using Altium Designer, including schematic capture, optimized PCB layout, and integration of ESP32-S, CP2102 USB-UART, ULN2003/A4988 stepper drivers, and a 3.5” TFT touchscreen (XPT2046) for real-time control. Developed a multi-stage power regulation system (12V → 9V → 5V/3.3V) using LM2596S, AMS1117, and R-78E to ensure stable and efficient power delivery for all modules. Performed DRC/ERC checks and 3D PCB visualization in Altium Designer to validate electrical correctness, manufacturability, and ensure fabrication-ready hardware output.",
+          "technologies": [
+            "Altium Designer",
+            "ESP32-S",
+            "CP2102 USB-UART",
+            "ULN2003",
+            "A4988",
+            "XPT2046",
+            "LM2596S",
+            "AMS1117",
+            "R-78E"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "name": "Physical Design Implementation of SPI using Qflow",
+          "description": "Implemented complete ASIC physical design flow from RTL to GDSII using Qflow, covering synthesis, floorplanning, placement, routing, and sign-off stages. Performed static timing analysis and physical verification to achieve timing closure and ensure DRC and LVS clean chip layouts. Gained hands-on experience in digital chip implementation, strengthening understanding of semiconductor physical design workflows and chip fabrication process.",
+          "technologies": [
+            "Qflow"
+          ]
+        },
+        {
+          "name": "Driver Drowsiness Detection System",
+          "description": "Developed a real-time driver monitoring system using Arduino Nano, IR sensor, relay module and buzzer. Triggered vehicle stop and alarm upon prolonged eye closure to improve road safety.",
+          "technologies": [
+            "Arduino Nano",
+            "IR sensor",
+            "relay module",
+            "buzzer"
+          ]
+        },
+        {
+          "name": "Enhanced Railway Safety Automated Alert System",
+          "description": "Built an Arduino-based railway monitoring prototype using IR and ultrasonic sensors. Integrated GPS (NEO-6M) and GSM (SIM800) modules for real-time location-based alerts and automatic train stoppage.",
+          "technologies": [
+            "Arduino",
+            "IR sensors",
+            "ultrasonic sensors",
+            "GPS (NEO-6M)",
+            "GSM (SIM800)"
+          ]
+        }
+      ],
+      "raw_text_preview": "Gokavarapu Sai Lalithya\n# sailalithyagokavarapu@gmail.com —  +91-7702257130 — ï Sai Lalithya Gokavarapu\nPROFILE\nElectronics and Communication Engineering undergraduate at VIT-AP University, specializing in VLSI with strong\ninterest in ASIC Physical Design and PCB Design. Experienced in custom PCB development and passionate about\nbuilding innovative and reliable hardware solutions for real-world engineering problems. A dedicated learner focused on\ncontinuous skill development and staying updated",
+      "created_at": "2026-08-24T07:41:08.827Z"
+    },
+    {
+      "id": "cand_1787556591802_a134c2eb",
+      "name": "SUMALA KEERTHANA",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "OOPS",
+        "Data Structures",
+        "Generative AI",
+        "Prompt Engineering",
+        "UI/UX Design",
+        "Figma"
+      ],
+      "languages_known": [
+        "Telugu",
+        "English"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "8.85/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "RGUKT-IIIT,Idupulapaaya",
+          "year": "2021–2023",
+          "grade": "96%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Montessori Indus High School",
+          "year": "2020",
+          "grade": "97%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Resume Screening Assistant",
+          "description": "Intelligent Resume Analysis – Uses Generative AI to read, summarize, and extract key skills, experiences, and achievements from resumes, matching them against job requirements. Smart Candidate Shortlisting – Automatically categorizes and ranks candidates by relevance, while reducing bias and adapting with recruiter feedback.",
+          "technologies": [
+            "Generative AI"
+          ]
+        },
+        {
+          "name": "Soft Computing Project",
+          "description": "Fuzzy Logic Navigation – Designed a drone navigation system that makes real-time flight decisions using fuzzy rules. Genetic Algorithm Optimization – Enhanced path efficiency and obstacle avoidance by evolving the fuzzy control parameters.",
+          "technologies": [
+            "Fuzzy Logic",
+            "Genetic Algorithm"
+          ]
+        },
+        {
+          "name": "IOT Project",
+          "description": "Drowsiness Detection System Designed smart glasses with IR sensors using Arduino Nano. Triggered alerts using a buzzer and relay when prolonged eye closure detected.",
+          "technologies": [
+            "IoT",
+            "Arduino Nano",
+            "IR sensors"
+          ]
+        }
+      ],
+      "raw_text_preview": "SUMALA KEERTHANA\n# sumalakeerthana@gmail.com —  6302280256 — ï LinkedIn — § GitHub\nProfile\nI am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to\nimpactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative\nclub activities, I am eager to further develop my knowledge through practical applications in innovative tech\nenvironments\nProjects\nResume Screening Assistant 2025\n• Intelligent Resume Anal",
+      "created_at": "2026-08-24T07:29:51.802Z"
+    },
+    {
+      "id": "cand_1787556591118_a263cefb",
+      "name": "Vijay Kumar Doddaka",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (ES6+)",
+        "React.js",
+        "MySQL",
+        "NoSQL",
+        "Interface Design",
+        "User Experience (UX)",
+        "Figma",
+        "VS Code",
+        "Git & GitHub",
+        "Netlify",
+        "Render",
+        "Full Stack Development",
+        "Database Management",
+        "UI/UX Design"
+      ],
+      "languages_known": [
+        "English",
+        "Hindi",
+        "Telugu"
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Technology",
+          "field": "Computer Science And Engineering",
+          "institution": "VIT-AP University",
+          "year": "06/2027",
+          "grade": ""
+        },
+        {
+          "degree": "Intermediate",
+          "field": "MPC",
+          "institution": "Sri Chaitanya Junior College",
+          "year": "05/2023",
+          "grade": ""
+        },
+        {
+          "degree": "Secondary School",
+          "field": "High School",
+          "institution": "Sri Chaitanya High School",
+          "year": "03/2021",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Grade Calculation System for B.Tech Students",
+          "description": "Developed a web-based utility tool tailored for engineering students to calculate CGPA/SGPA based on university grading systems. Built robust backend logic to accurately compute complex academic weightage and criteria while handling edge-case inputs gracefully. Utilized clean database logic to store grade structures, reducing manual calculation errors to zero.",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL/NoSQL"
+          ]
+        },
+        {
+          "name": "Full Stack Development",
+          "description": "Designed and engineered a dynamic, responsive fitness tracking application using React.js to monitor daily user health metrics and workouts. Implemented interactive user interface components to ensure a seamless, engaging UX, optimizing state management for real-time updates. Successfully deployed the production-ready application using cloud hosting platforms to ensure high availability.",
+          "technologies": [
+            "React.js",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Netlify/Render"
+          ]
+        }
+      ],
+      "raw_text_preview": "Vijay Kumar Doddaka Guntur, AP 522213\n+91 8341316695\nvijay7093396539@gmail.com\nPROFESSIONAL SUMMARY\nDetail-oriented and analytical Full Stack Engineer with a strong\nfoundation in Computer Science and Engineering. Passionate about\nbuilding scalable web applications, designing intuitive user\nexperiences, and optimizing database performance. Proficient in\nmodern frontend frameworks like React.js along side robust backend\nand database management skills. Proven ability to translate complex\nlogic into",
+      "created_at": "2026-08-24T07:29:51.119Z"
+    },
+    {
+      "id": "cand_1787556491876_f63bf152",
+      "name": "Priya Sharma",
+      "skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Data Analysis",
+        "Scikit-Learn"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "B.Sc",
+          "field": "Statistics",
+          "institution": "",
+          "year": "2024",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Customer Churn Prediction Model",
+          "description": "Developed a customer churn prediction model.",
+          "technologies": [
+            "Python",
+            "Scikit-Learn"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nPRIYA SHARMA\nEmail: priya.sharma@email.com\nEducation: B.Sc in Statistics, 2024\nTechnical Skills: Python, SQL, Pandas, NumPy, Machine Learning, Data Analysis\nProjects:\n- Customer Churn Prediction Model using Python and Scikit-Learn\n",
+      "created_at": "2026-08-24T07:28:11.876Z"
+    },
+    {
+      "id": "cand_1787556491774_b30ed4e0",
+      "name": "Alex Chen",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "SQL",
+        "Data Structures & Algorithms",
+        "REST APIs",
+        "Git",
+        "Node.js"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "",
+          "year": "2025",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Full-Stack Web Application",
+          "description": "Developed a full-stack web application using React and Node.js.",
+          "technologies": [
+            "React",
+            "Node.js"
+          ]
+        },
+        {
+          "name": "Algorithm Visualizer",
+          "description": "Created an algorithm visualizer tool.",
+          "technologies": [
+            "Java"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nALEX CHEN\nEmail: alex.chen@email.com\nEducation: B.Tech in Computer Science and Engineering, 2025\nTechnical Skills: Java, Python, JavaScript, React, SQL, Data Structures & Algorithms, REST APIs, Git, Node.js\nProjects:\n- Full-Stack Web Application in React & Node.js\n- Algorithm Visualizer in Java\n",
+      "created_at": "2026-08-24T07:28:11.774Z"
+    },
+    {
+      "id": "cand_1787556491413_2ecf865f",
+      "name": "MARCUS VANCE",
+      "skills": [
+        "Adobe Photoshop",
+        "Illustrator",
+        "Figma",
+        "UI/UX Wireframing",
+        "Typography",
+        "Logo Design"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Fine Arts",
+          "field": "Graphic Design",
+          "institution": "",
+          "year": "2023",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Brand Identity Redesign for Coffee Shop",
+          "description": "",
+          "technologies": []
+        }
+      ],
+      "raw_text_preview": "\nMARCUS VANCE\nEmail: marcus.v@email.com\nEducation: Bachelor of Fine Arts in Graphic Design, 2023\nTechnical Skills: Adobe Photoshop, Illustrator, Figma, UI/UX Wireframing, Typography, Logo Design\nProjects:\n- Brand Identity Redesign for Coffee Shop\n",
+      "created_at": "2026-08-24T07:28:11.414Z"
+    },
+    {
+      "id": "cand_1787556479831_a8c9e81b",
+      "name": "Keerthana S.",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "React",
+        "HTML5",
+        "CSS3",
+        "REST APIs",
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "DBMS",
+        "Node.js",
+        "Spring Boot",
+        "MySQL",
+        "AI"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Technology (B.Tech)",
+          "field": "Computer Science and Engineering",
+          "institution": "ABC Institute of Technology",
+          "year": "2021-2025",
+          "grade": "CGPA: 8.9/10"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Smart Resume Screener",
+          "description": "Built a web app analyzing resumes against job descriptions with AI matching and skill parsing.",
+          "technologies": [
+            "React",
+            "Node.js",
+            "AI"
+          ]
+        },
+        {
+          "name": "E-Commerce Platform",
+          "description": "Developed RESTful APIs and product catalog management system.",
+          "technologies": [
+            "Java",
+            "Spring Boot",
+            "MySQL"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nKEERTHANA S.\nEmail: keerthana.s@example.com | Phone: +91 9876543210\nEducation:\nBachelor of Technology (B.Tech) in Computer Science and Engineering (2021-2025)\nABC Institute of Technology, CGPA: 8.9/10\n\nTechnical Skills:\n- Programming Languages: Java, Python, JavaScript, SQL\n- Web Technologies: React, HTML5, CSS3, REST APIs\n- Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS\n\nProjects:\n1. Smart Resume Screener (React, Node.js, AI):\n   Built a web app analyzing ",
+      "created_at": "2026-08-24T07:27:59.833Z"
+    },
+    {
+      "id": "cand_1787556166968_bb5e44ca",
+      "name": "Vijay Kumar Doddaka",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (ES6+)",
+        "React.js",
+        "MySQL",
+        "NoSQL",
+        "Interface Design",
+        "User Experience (UX)",
+        "Figma",
+        "VS Code",
+        "Git & GitHub",
+        "Netlify",
+        "Render",
+        "Frontend Development",
+        "Database Management",
+        "UI/UX & Design"
+      ],
+      "languages_known": [
+        "English",
+        "Hindi",
+        "Telugu"
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Technology",
+          "field": "Computer Science And Engineering",
+          "institution": "VIT-AP University",
+          "year": "06/2027",
+          "grade": ""
+        },
+        {
+          "degree": "Intermediate",
+          "field": "MPC",
+          "institution": "Sri Chaitanya Junior College",
+          "year": "05/2023",
+          "grade": ""
+        },
+        {
+          "degree": "Secondary School",
+          "field": "High School",
+          "institution": "Sri Chaitanya High School",
+          "year": "03/2021",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Grade Calculation System for B.Tech Students",
+          "description": "Developed a web-based utility tool tailored for engineering students to calculate CGPA/SGPA based on university grading systems. Built robust backend logic to accurately compute complex academic weightage and criteria while handling edge-case inputs gracefully. Utilized clean database logic to store grade structures, reducing manual calculation errors to zero.",
+          "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "SQL/NoSQL"
+          ]
+        },
+        {
+          "name": "Full Stack Development",
+          "description": "Designed and engineered a dynamic, responsive fitness tracking application using React.js to monitor daily user health metrics and workouts. Implemented interactive user interface components to ensure a seamless, engaging UX, optimizing state management for real-time updates. Successfully deployed the production-ready application using cloud hosting platforms to ensure high availability.",
+          "technologies": [
+            "React.js",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Netlify/Render"
+          ]
+        }
+      ],
+      "raw_text_preview": "Vijay Kumar Doddaka Guntur, AP 522213\n+91 8341316695\nvijay7093396539@gmail.com\nPROFESSIONAL SUMMARY\nDetail-oriented and analytical Full Stack Engineer with a strong\nfoundation in Computer Science and Engineering. Passionate about\nbuilding scalable web applications, designing intuitive user\nexperiences, and optimizing database performance. Proficient in\nmodern frontend frameworks like React.js along side robust backend\nand database management skills. Proven ability to translate complex\nlogic into",
+      "created_at": "2026-08-24T07:22:46.969Z"
+    },
+    {
+      "id": "cand_1787555917703_bd53031a",
+      "name": "Gokavarapu Sai Lalithya",
+      "skills": [
+        "Java",
+        "C",
+        "Verilog",
+        "Altium Designer",
+        "Xilinx Vivado",
+        "Cadence Virtuoso",
+        "MATLAB",
+        "Arduino",
+        "ARM",
+        "8085",
+        "ASIC Physical Design",
+        "PCB Design"
+      ],
+      "languages_known": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "German"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech in Electronics and Communication Engineering (VLSI)",
+          "field": "Electronics and Communication Engineering (VLSI)",
+          "institution": "VIT-AP University, Amaravati",
+          "year": "2023–2027",
+          "grade": "9.07/10"
+        },
+        {
+          "degree": "Class XII (MPC)",
+          "field": "MPC",
+          "institution": "Narayana Junior College, Vizianagaram",
+          "year": "2021–2023",
+          "grade": "97.8%"
+        },
+        {
+          "degree": "Class X",
+          "field": "",
+          "institution": "The Sun School (CBSE)",
+          "year": "2020–2021",
+          "grade": "93.2%"
+        }
+      ],
+      "experience": [
+        {
+          "company": "National Institute of Technology Rourkela",
+          "role": "PCB Design Intern",
+          "duration": "May 2025 – Jul 2025",
+          "description": "Designed a biomedical micro syringe pump PCB using Altium Designer, including schematic capture, optimized PCB layout, and integration of ESP32-S, CP2102 USB-UART, ULN2003/A4988 stepper drivers, and a 3.5” TFT touchscreen (XPT2046) for real-time control. Developed a multi-stage power regulation system (12V → 9V → 5V/3.3V) using LM2596S, AMS1117, and R-78E to ensure stable and efficient power delivery for all modules. Performed DRC/ERC checks and 3D PCB visualization in Altium Designer to validate electrical correctness, manufacturability, and ensure fabrication-ready hardware output.",
+          "technologies": [
+            "Altium Designer",
+            "ESP32-S",
+            "CP2102",
+            "ULN2003",
+            "A4988",
+            "LM2596S",
+            "AMS1117",
+            "R-78E"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "name": "Physical Design Implementation of SPI using Qflow",
+          "description": "Implemented complete ASIC physical design flow from RTL to GDSII using Qflow, covering synthesis, floorplanning, placement, routing, and sign-off stages. Performed static timing analysis and physical verification to achieve timing closure and ensure DRC and LVS clean chip layouts. Gained hands-on experience in digital chip implementation, strengthening understanding of semiconductor physical design workflows and chip fabrication process.",
+          "technologies": [
+            "Qflow",
+            "RTL",
+            "GDSII"
+          ]
+        },
+        {
+          "name": "Driver Drowsiness Detection System",
+          "description": "Developed a real-time driver monitoring system using Arduino Nano, IR sensor, relay module and buzzer. Triggered vehicle stop and alarm upon prolonged eye closure to improve road safety.",
+          "technologies": [
+            "Arduino Nano",
+            "IR sensor",
+            "relay module",
+            "buzzer"
+          ]
+        },
+        {
+          "name": "Enhanced Railway Safety Automated Alert System",
+          "description": "Built an Arduino-based railway monitoring prototype using IR and ultrasonic sensors. Integrated GPS (NEO-6M) and GSM (SIM800) modules for real-time location-based alerts and automatic train stoppage.",
+          "technologies": [
+            "Arduino",
+            "IR sensors",
+            "ultrasonic sensors",
+            "GPS (NEO-6M)",
+            "GSM (SIM800)"
+          ]
+        }
+      ],
+      "raw_text_preview": "Gokavarapu Sai Lalithya\n# sailalithyagokavarapu@gmail.com —  +91-7702257130 — ï Sai Lalithya Gokavarapu\nPROFILE\nElectronics and Communication Engineering undergraduate at VIT-AP University, specializing in VLSI with strong\ninterest in ASIC Physical Design and PCB Design. Experienced in custom PCB development and passionate about\nbuilding innovative and reliable hardware solutions for real-world engineering problems. A dedicated learner focused on\ncontinuous skill development and staying updated",
+      "created_at": "2026-08-24T07:18:37.704Z"
+    },
+    {
+      "id": "cand_1787555917375_dad718ba",
+      "name": "Pawar Sruthi",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "OOP",
+        "Data Structures",
+        "SDLC",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "React.js",
+        "REST APIs",
+        "Git",
+        "Arduino Nano",
+        "Database Performance Tuning",
+        "SQL Query Optimization"
+      ],
+      "languages_known": [
+        "Telugu",
+        "Hindi",
+        "English",
+        "Marathi"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "9.18/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "Sri Chaitanya Junior College, Guntur",
+          "year": "2021–2023",
+          "grade": "97.4%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Gitams High School",
+          "year": "2020",
+          "grade": "99%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Driver Drowsiness Detection System",
+          "description": "Developed a real-time driver drowsiness detection system using an IR sensor and Arduino Nano to monitor eye closure. Implemented an alert mechanism with a buzzer and relay module to notify the driver and halt the vehicle upon detecting prolonged drowsiness.",
+          "technologies": [
+            "IR sensor",
+            "Arduino Nano",
+            "buzzer",
+            "relay module"
+          ]
+        },
+        {
+          "name": "Fitness Tracker Web Application",
+          "description": "Built a full-stack fitness tracker with secure user authentication and workout management features. Implemented CRUD operations and RESTful APIs using Node.js, Express.js, and MongoDB with a responsive React.js frontend.",
+          "technologies": [
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "React.js",
+            "RESTful APIs"
+          ]
+        },
+        {
+          "name": "Pothole Detection System",
+          "description": "Developed a sensor-based pothole detection system using an ultrasonic sensor to detect road surface irregularities in real time. Integrated GPS to capture the location of detected potholes, enabling efficient reporting and improving road maintenance planning.",
+          "technologies": [
+            "ultrasonic sensor",
+            "GPS"
+          ]
+        }
+      ],
+      "raw_text_preview": "Pawar Sruthi\n# sruthipawar455@gmail.com —  9618051459 — ï LinkedIn\nProfile\nMotivated B.Tech Computer Science and Engineering student at VIT-AP University with a strong foundation\nin Java, C, Python, SQL, HTML, CSS, JavaScript, and MongoDB. Passionate about full-stack web development\nand software engineering, with hands-on experience building web applications and embedded systems projects.\nSkilled in problem-solving, debugging, and collaborating in team environments. An active participant in tec",
+      "created_at": "2026-08-24T07:18:37.375Z"
+    },
+    {
+      "id": "cand_1787555916536_7559ef12",
+      "name": "SUMALA KEERTHANA",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "OOPS",
+        "Data Structures",
+        "Generative AI",
+        "Figma",
+        "UI/UX Design",
+        "Arduino Nano"
+      ],
+      "languages_known": [
+        "Telugu",
+        "English"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "8.85/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "RGUKT-IIIT,Idupulapaaya",
+          "year": "2021–2023",
+          "grade": "96%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Montessori Indus High School",
+          "year": "2020",
+          "grade": "97%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Resume Screening Assistant",
+          "description": "Intelligent Resume Analysis using Generative AI to read, summarize, and extract key skills, experiences, and achievements from resumes, matching them against job requirements. Smart Candidate Shortlisting automatically categorizes and ranks candidates by relevance while reducing bias and adapting with recruiter feedback.",
+          "technologies": [
+            "Generative AI"
+          ]
+        },
+        {
+          "name": "Soft Computing Project",
+          "description": "Fuzzy Logic Navigation designed a drone navigation system that makes real-time flight decisions using fuzzy rules. Genetic Algorithm Optimization enhanced path efficiency and obstacle avoidance by evolving the fuzzy control parameters.",
+          "technologies": [
+            "Fuzzy Logic",
+            "Genetic Algorithm"
+          ]
+        },
+        {
+          "name": "IOT Project",
+          "description": "Drowsiness Detection System designed smart glasses with IR sensors using Arduino Nano. Triggered alerts using a buzzer and relay when prolonged eye closure detected.",
+          "technologies": [
+            "IoT",
+            "Arduino Nano",
+            "IR sensors"
+          ]
+        }
+      ],
+      "raw_text_preview": "SUMALA KEERTHANA\n# sumalakeerthana@gmail.com —  6302280256 — ï LinkedIn — § GitHub\nProfile\nI am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to\nimpactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative\nclub activities, I am eager to further develop my knowledge through practical applications in innovative tech\nenvironments\nProjects\nResume Screening Assistant 2025\n• Intelligent Resume Anal",
+      "created_at": "2026-08-24T07:18:36.537Z"
+    },
+    {
+      "id": "cand_1787555638786_ab0bf63e",
+      "name": "Priya Sharma",
+      "skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Data Analysis",
+        "Scikit-Learn"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "B.Sc",
+          "field": "Statistics",
+          "institution": "",
+          "year": "2024",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Customer Churn Prediction Model",
+          "description": "Built a customer churn prediction model.",
+          "technologies": [
+            "Python",
+            "Scikit-Learn"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nPRIYA SHARMA\nEmail: priya.sharma@email.com\nEducation: B.Sc in Statistics, 2024\nTechnical Skills: Python, SQL, Pandas, NumPy, Machine Learning, Data Analysis\nProjects:\n- Customer Churn Prediction Model using Python and Scikit-Learn\n",
+      "created_at": "2026-08-24T07:13:58.786Z"
+    },
+    {
+      "id": "cand_1787555638703_3d42314f",
+      "name": "Alex Chen",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "SQL",
+        "Data Structures & Algorithms",
+        "REST APIs",
+        "Git",
+        "Node.js"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "",
+          "year": "2025",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Full-Stack Web Application",
+          "description": "Developed a full-stack web application using React and Node.js.",
+          "technologies": [
+            "React",
+            "Node.js"
+          ]
+        },
+        {
+          "name": "Algorithm Visualizer",
+          "description": "Created an algorithm visualizer tool.",
+          "technologies": [
+            "Java"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nALEX CHEN\nEmail: alex.chen@email.com\nEducation: B.Tech in Computer Science and Engineering, 2025\nTechnical Skills: Java, Python, JavaScript, React, SQL, Data Structures & Algorithms, REST APIs, Git, Node.js\nProjects:\n- Full-Stack Web Application in React & Node.js\n- Algorithm Visualizer in Java\n",
+      "created_at": "2026-08-24T07:13:58.703Z"
+    },
+    {
+      "id": "cand_1787555638599_1bd0f89e",
+      "name": "MARCUS VANCE",
+      "skills": [
+        "Adobe Photoshop",
+        "Illustrator",
+        "Figma",
+        "UI/UX Wireframing",
+        "Typography",
+        "Logo Design"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Fine Arts",
+          "field": "Graphic Design",
+          "institution": "",
+          "year": "2023",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Brand Identity Redesign for Coffee Shop",
+          "description": "",
+          "technologies": []
+        }
+      ],
+      "raw_text_preview": "\nMARCUS VANCE\nEmail: marcus.v@email.com\nEducation: Bachelor of Fine Arts in Graphic Design, 2023\nTechnical Skills: Adobe Photoshop, Illustrator, Figma, UI/UX Wireframing, Typography, Logo Design\nProjects:\n- Brand Identity Redesign for Coffee Shop\n",
+      "created_at": "2026-08-24T07:13:58.600Z"
+    },
+    {
+      "id": "cand_1787553823923_fbd4cdf3",
+      "name": "SUMALA KEERTHANA",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "OOPS",
+        "Data Structures",
+        "Generative AI",
+        "Prompt Engineering",
+        "UI/UX Design",
+        "Figma"
+      ],
+      "languages_known": [
+        "Telugu",
+        "English"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "8.85/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "RGUKT-IIIT,Idupulapaaya",
+          "year": "2021–2023",
+          "grade": "96%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Montessori Indus High School",
+          "year": "2020",
+          "grade": "97%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Resume Screening Assistant",
+          "description": "Intelligent Resume Analysis – Uses Generative AI to read, summarize, and extract key skills, experiences, and achievements from resumes, matching them against job requirements. Smart Candidate Shortlisting – Automatically categorizes and ranks candidates by relevance, while reducing bias and adapting with recruiter feedback.",
+          "technologies": [
+            "Generative AI"
+          ]
+        },
+        {
+          "name": "Soft Computing Project",
+          "description": "Fuzzy Logic Navigation – Designed a drone navigation system that makes real-time flight decisions using fuzzy rules. Genetic Algorithm Optimization – Enhanced path efficiency and obstacle avoidance by evolving the fuzzy control parameters.",
+          "technologies": [
+            "Fuzzy Logic",
+            "Genetic Algorithm"
+          ]
+        },
+        {
+          "name": "IOT Project",
+          "description": "Drowsiness Detection System Designed smart glasses with IR sensors using Arduino Nano. Triggered alerts using a buzzer and relay when prolonged eye closure detected.",
+          "technologies": [
+            "Arduino Nano",
+            "IR sensors"
+          ]
+        }
+      ],
+      "raw_text_preview": "SUMALA KEERTHANA\n# sumalakeerthana@gmail.com —  6302280256 — ï LinkedIn — § GitHub\nProfile\nI am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to\nimpactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative\nclub activities, I am eager to further develop my knowledge through practical applications in innovative tech\nenvironments\nProjects\nResume Screening Assistant 2025\n• Intelligent Resume Anal",
+      "created_at": "2026-08-24T06:43:43.924Z"
+    },
+    {
+      "id": "cand_1787553722095_f34fac12",
+      "name": "Candidate",
+      "skills": [],
+      "languages_known": [],
+      "education": [],
+      "experience": [],
+      "projects": [],
+      "raw_text_preview": "https://1drv.ms/b/c/848bde719b03b303/Eb3zic1osxpAjKlZ0L0O8XcBzrfJeXonuC9dDwDtTThnjQ?e=hU8aPA ",
+      "created_at": "2026-08-24T06:42:02.096Z"
+    },
+    {
+      "id": "cand_1787553507112_408a6860",
+      "name": "JOHN DOE",
+      "skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "React",
+        "Node.js",
+        "Git",
+        "REST APIs"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "field": "Computer Science",
+          "institution": "State University",
+          "year": "2024",
+          "grade": ""
+        }
+      ],
+      "experience": [
+        {
+          "company": "Tech Labs",
+          "role": "Full Stack Web Developer Intern",
+          "duration": "6 months",
+          "description": "Built responsive web interfaces and microservices using React and Node.js.",
+          "technologies": [
+            "React",
+            "Node.js"
+          ]
+        }
+      ],
+      "projects": [],
+      "raw_text_preview": "\nJOHN DOE\nEmail: john.doe@email.com | Phone: +1 555-0199\nEducation:\nBachelor of Science in Computer Science, State University, 2024\nTechnical Skills:\nJava, Python, SQL, React, Node.js, Git, REST APIs\nExperience & Projects:\nFull Stack Web Developer Intern at Tech Labs (6 months)\nBuilt responsive web interfaces and microservices using React and Node.js.\n",
+      "created_at": "2026-08-24T06:38:27.114Z"
+    },
+    {
+      "id": "cand_1787553473613_9b7c2c53",
+      "name": "Keerthana S.",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "React",
+        "HTML5",
+        "CSS3",
+        "REST APIs",
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "DBMS",
+        "Node.js",
+        "Spring Boot",
+        "MySQL",
+        "AI"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Technology (B.Tech)",
+          "field": "Computer Science and Engineering",
+          "institution": "ABC Institute of Technology",
+          "year": "2021-2025",
+          "grade": "8.9/10"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Smart Resume Screener",
+          "description": "Built a web app analyzing resumes against job descriptions with AI matching and skill parsing.",
+          "technologies": [
+            "React",
+            "Node.js",
+            "AI"
+          ]
+        },
+        {
+          "name": "E-Commerce Platform",
+          "description": "Developed RESTful APIs and product catalog management system.",
+          "technologies": [
+            "Java",
+            "Spring Boot",
+            "MySQL"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nKEERTHANA S.\nEmail: keerthana.s@example.com | Phone: +91 9876543210\nEducation:\nBachelor of Technology (B.Tech) in Computer Science and Engineering (2021-2025)\nABC Institute of Technology, CGPA: 8.9/10\n\nTechnical Skills:\n- Programming Languages: Java, Python, JavaScript, SQL\n- Web Technologies: React, HTML5, CSS3, REST APIs\n- Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS\n\nProjects:\n1. Smart Resume Screener (React, Node.js, AI):\n   Built a web app analyzing ",
+      "created_at": "2026-08-24T06:37:53.615Z"
+    }
+  ],
+  "screenings": [
+    {
+      "id": "scr_1787574146868_10f680e9",
+      "candidate_name": "Gokavarapu Sai Lalithya",
+      "job_title": "Full Stack Web Developer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 0,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 15,
+        "final_score": 43.8,
+        "rating_out_of_10": 4.4,
+        "score_out_of_ten": 4.4
+      },
+      "recommendation": "Low Match (Not Shortlisted)",
+      "matched_required_skills": [],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "react",
+        "next.js",
+        "html5",
+        "css3",
+        "tailwind css",
+        "typescript",
+        "node.js",
+        "express",
+        "python",
+        "fastapi",
+        "django",
+        "rest apis",
+        "graphql",
+        "postgresql",
+        "mongodb",
+        "redis",
+        "docker",
+        "aws",
+        "gcp",
+        "ci/cd pipelines",
+        "git"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [],
+      "semantic_partial_matches": [
+        "General engineering background from a recognized university"
+      ],
+      "missing_requirements": [
+        "React",
+        "Next.js",
+        "HTML5/CSS3",
+        "Tailwind CSS",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "Python",
+        "FastAPI",
+        "Django",
+        "REST APIs",
+        "GraphQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Git",
+        "Bachelor's in Computer Science",
+        "1-3 years of Full Stack Web Development experience"
+      ],
+      "justification": "The candidate's profile is exclusively focused on VLSI, ASIC Physical Design, and PCB Design, with an ECE background. There is a complete mismatch with the requirements for a Full Stack Web Developer position, which requires modern frontend, backend, cloud, and database technologies.",
+      "created_at": "2026-08-24T12:22:26.868Z"
+    },
+    {
+      "id": "scr_1787574146789_d3324d2f",
+      "candidate_name": "SUMALA KEERTHANA",
+      "job_title": "Full Stack Web Developer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 19,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 80,
+        "projects": 100,
+        "semantic_score": 45,
+        "final_score": 54.9,
+        "rating_out_of_10": 5.5,
+        "score_out_of_ten": 5.5
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [
+        "react",
+        "python"
+      ],
+      "partial_required_skills": [
+        "html5",
+        "css3",
+        "tailwind css",
+        "postgresql"
+      ],
+      "missing_required_skills": [
+        "next.js",
+        "typescript",
+        "node.js",
+        "express",
+        "fastapi",
+        "django",
+        "rest apis",
+        "graphql",
+        "mongodb",
+        "redis",
+        "docker",
+        "aws",
+        "gcp",
+        "ci/cd pipelines",
+        "git"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "React",
+        "HTML",
+        "CSS",
+        "Python",
+        "Bachelor's in Computer Science (in progress)"
+      ],
+      "semantic_partial_matches": [
+        "JavaScript (transferable to TypeScript)",
+        "SQL (transferable to PostgreSQL/MongoDB)",
+        "Generative AI / UI/UX Design (complementary frontend/AI skills)"
+      ],
+      "missing_requirements": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "FastAPI",
+        "Django",
+        "REST APIs / GraphQL",
+        "PostgreSQL / MongoDB / Redis",
+        "Docker",
+        "AWS / GCP",
+        "CI/CD pipelines",
+        "Git",
+        "1-3 years of professional experience"
+      ],
+      "justification": "Sumala is a motivated Computer Science undergraduate with a solid academic record and foundational skills in React, Python, and web fundamentals. However, she lacks professional experience and key enterprise stack requirements like TypeScript, modern backend frameworks (Node.js, Django, FastAPI), databases, and DevOps/cloud tools specified for this mid-level Full Stack role.",
+      "created_at": "2026-08-24T12:22:26.789Z"
+    },
+    {
+      "id": "scr_1787574146478_cdfed850",
+      "candidate_name": "Pawar Sruthi",
+      "job_title": "Full Stack Web Developer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 40.5,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 80,
+        "projects": 100,
+        "semantic_score": 60,
+        "final_score": 66.2,
+        "rating_out_of_10": 6.6,
+        "score_out_of_ten": 6.6
+      },
+      "recommendation": "Good Match (Shortlisted)",
+      "matched_required_skills": [
+        "react",
+        "node.js",
+        "python",
+        "rest apis",
+        "mongodb",
+        "git"
+      ],
+      "partial_required_skills": [
+        "html5",
+        "css3",
+        "tailwind css",
+        "express",
+        "postgresql"
+      ],
+      "missing_required_skills": [
+        "next.js",
+        "typescript",
+        "fastapi",
+        "django",
+        "graphql",
+        "redis",
+        "docker",
+        "aws",
+        "gcp",
+        "ci/cd pipelines"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "React.js / React",
+        "Node.js",
+        "Express.js / Express",
+        "MongoDB",
+        "Python",
+        "HTML5 / HTML",
+        "CSS3 / CSS",
+        "REST APIs",
+        "Git",
+        "Bachelor's in Computer Science (ongoing B.Tech)"
+      ],
+      "semantic_partial_matches": [
+        "JavaScript (used instead of TypeScript)",
+        "Full-stack project experience (Fitness Tracker Web Application)"
+      ],
+      "missing_requirements": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "FastAPI",
+        "Django",
+        "GraphQL",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "1-3 years of professional experience (Candidate is a current student with 0 years of formal experience)"
+      ],
+      "justification": "Pawar Sruthi demonstrates a solid academic foundation in Computer Science and relevant academic project experience in full-stack development using React, Node.js, and MongoDB. However, she lacks professional work experience and several critical modern enterprise requirements listed in the job description, such as TypeScript, Next.js, PostgreSQL, Docker, and cloud platforms like AWS or GCP.",
+      "created_at": "2026-08-24T12:22:26.478Z"
+    },
+    {
+      "id": "scr_1787574145960_ba1a2bb2",
+      "candidate_name": "Vijay Kumar Doddaka",
+      "job_title": "Full Stack Web Developer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 16.7,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 80,
+        "projects": 90,
+        "semantic_score": 52,
+        "final_score": 54.8,
+        "rating_out_of_10": 5.5,
+        "score_out_of_ten": 5.5
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [
+        "react",
+        "html5",
+        "css3"
+      ],
+      "partial_required_skills": [
+        "git"
+      ],
+      "missing_required_skills": [
+        "next.js",
+        "tailwind css",
+        "typescript",
+        "node.js",
+        "express",
+        "python",
+        "fastapi",
+        "django",
+        "rest apis",
+        "graphql",
+        "postgresql",
+        "mongodb",
+        "redis",
+        "docker",
+        "aws",
+        "gcp",
+        "ci/cd pipelines"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "React.js / React",
+        "HTML5",
+        "CSS3",
+        "Git & GitHub",
+        "NoSQL / MongoDB (database familiarity)",
+        "Bachelor's degree in Computer Science"
+      ],
+      "semantic_partial_matches": [
+        "JavaScript (ES6+) as a stepping stone to TypeScript",
+        "MySQL as a transferable skill for relational databases like PostgreSQL",
+        "Basic deployment using Netlify/Render instead of Docker/AWS/GCP"
+      ],
+      "missing_requirements": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "Node.js / Express",
+        "Python / FastAPI / Django",
+        "REST APIs / GraphQL",
+        "PostgreSQL / Redis",
+        "Docker, AWS, GCP, and CI/CD pipelines",
+        "1-3 years of professional experience"
+      ],
+      "justification": "Vijay possesses a solid academic foundation in Computer Science and strong frontend fundamentals in React and JavaScript. However, he lacks professional experience (0-1 year student status vs. 1-3 years required) and misses several core backend and DevOps technologies specified in the job description, such as TypeScript, Node.js, Python, PostgreSQL, and Docker.",
+      "created_at": "2026-08-24T12:22:25.961Z"
+    },
+    {
+      "id": "scr_1787567156941_a5ee1c2b",
+      "candidate_name": "Gokavarapu Sai Lalithya",
+      "job_title": "Full Stack Web Developer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 0,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 15,
+        "final_score": 43.8,
+        "rating_out_of_10": 4.4,
+        "score_out_of_ten": 4.4
+      },
+      "recommendation": "Low Match (Not Shortlisted)",
+      "matched_required_skills": [],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "react",
+        "next.js",
+        "html5",
+        "css3",
+        "tailwind css",
+        "typescript",
+        "node.js",
+        "express",
+        "python",
+        "fastapi",
+        "django",
+        "rest apis",
+        "graphql",
+        "postgresql",
+        "mongodb",
+        "redis",
+        "docker",
+        "aws",
+        "gcp",
+        "ci/cd pipelines",
+        "git"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [],
+      "semantic_partial_matches": [
+        "Programming background (Java, C) demonstrates foundational logic that translates to general software engineering"
+      ],
+      "missing_requirements": [
+        "React, Next.js, HTML5, CSS3, Tailwind CSS, TypeScript",
+        "Node.js, Express, Python, FastAPI, Django",
+        "REST APIs, GraphQL",
+        "PostgreSQL, MongoDB, Redis",
+        "Docker, AWS, GCP, CI/CD pipelines, Git",
+        "Computer Science degree",
+        "1-3 years of Full Stack Web Development experience"
+      ],
+      "justification": "The candidate has a specialized background in Electronics and Communication Engineering (VLSI, PCB Design, and Hardware) with no overlap in Full Stack Web Development technologies, languages, or required experience.",
+      "created_at": "2026-08-24T10:25:56.942Z"
+    },
+    {
+      "id": "scr_1787567156899_18e41be6",
+      "candidate_name": "Pawar Sruthi",
+      "job_title": "Full Stack Web Developer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 40.5,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 80,
+        "projects": 100,
+        "semantic_score": 65,
+        "final_score": 67.4,
+        "rating_out_of_10": 6.7,
+        "score_out_of_ten": 6.7
+      },
+      "recommendation": "Good Match (Shortlisted)",
+      "matched_required_skills": [
+        "react",
+        "node.js",
+        "python",
+        "rest apis",
+        "mongodb",
+        "git"
+      ],
+      "partial_required_skills": [
+        "html5",
+        "css3",
+        "tailwind css",
+        "express",
+        "postgresql"
+      ],
+      "missing_required_skills": [
+        "next.js",
+        "typescript",
+        "fastapi",
+        "django",
+        "graphql",
+        "redis",
+        "docker",
+        "aws",
+        "gcp",
+        "ci/cd pipelines"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "React.js / React",
+        "Node.js",
+        "Express.js / Express",
+        "MongoDB",
+        "Python",
+        "HTML5 / HTML",
+        "CSS3 / CSS",
+        "REST APIs",
+        "Git",
+        "Computer Science Degree (in progress)"
+      ],
+      "semantic_partial_matches": [
+        "JavaScript (strong foundation, but missing explicit TypeScript experience)",
+        "Full-stack project experience via Fitness Tracker Web Application (academic/personal projects instead of 1-3 years of professional experience)"
+      ],
+      "missing_requirements": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "FastAPI",
+        "Django",
+        "GraphQL",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "1-3 years of professional experience"
+      ],
+      "justification": "Pawar Sruthi demonstrates a strong academic background in Computer Science and relevant foundational skills in core full-stack technologies like React, Node.js, and MongoDB. However, she lacks the required 1-3 years of professional experience and several critical modern tech stack components specified in the job description, such as TypeScript, Next.js, Docker, and cloud platforms.",
+      "created_at": "2026-08-24T10:25:56.900Z"
+    },
+    {
+      "id": "scr_1787567156498_27d61a54",
+      "candidate_name": "SUMALA KEERTHANA",
+      "job_title": "Full Stack Web Developer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 19,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 80,
+        "projects": 100,
+        "semantic_score": 45,
+        "final_score": 54.9,
+        "rating_out_of_10": 5.5,
+        "score_out_of_ten": 5.5
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [
+        "react",
+        "python"
+      ],
+      "partial_required_skills": [
+        "html5",
+        "css3",
+        "tailwind css",
+        "postgresql"
+      ],
+      "missing_required_skills": [
+        "next.js",
+        "typescript",
+        "node.js",
+        "express",
+        "fastapi",
+        "django",
+        "rest apis",
+        "graphql",
+        "mongodb",
+        "redis",
+        "docker",
+        "aws",
+        "gcp",
+        "ci/cd pipelines",
+        "git"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "React",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Computer Science background (B.Tech CSE)"
+      ],
+      "semantic_partial_matches": [
+        "SQL (transferable to PostgreSQL/MongoDB)",
+        "Java/C/C++ (transferable backend logic understanding)",
+        "Generative AI / UI/UX Design (complementary product skills)"
+      ],
+      "missing_requirements": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "FastAPI",
+        "Django",
+        "REST APIs / GraphQL",
+        "PostgreSQL / MongoDB / Redis",
+        "Docker, AWS, GCP, CI/CD pipelines, Git",
+        "1-3 years of professional work experience"
+      ],
+      "justification": "Sumala Keerthana is a promising early-stage Computer Science student with foundational knowledge in React and Python, but lacks the extensive tech stack (Next.js, Node.js, databases, cloud/DevOps tools) and the required 1-3 years of professional experience needed for this Full Stack Web Developer role.",
+      "created_at": "2026-08-24T10:25:56.498Z"
+    },
+    {
+      "id": "scr_1787557268843_e3bac585",
+      "candidate_name": "Gokavarapu Sai Lalithya",
+      "job_title": "Full Stack Web Developer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 2.4,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 10,
+        "final_score": 43.3,
+        "rating_out_of_10": 4.3,
+        "score_out_of_ten": 4.3
+      },
+      "recommendation": "Low Match (Not Shortlisted)",
+      "matched_required_skills": [],
+      "partial_required_skills": [
+        "gcp basics"
+      ],
+      "missing_required_skills": [
+        "react",
+        "next.js",
+        "html5",
+        "css3",
+        "tailwind css",
+        "typescript",
+        "node.js",
+        "express",
+        "python",
+        "fastapi",
+        "django",
+        "rest apis",
+        "graphql",
+        "postgresql",
+        "mongodb",
+        "redis",
+        "docker",
+        "aws",
+        "ci/cd pipelines",
+        "git"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [],
+      "semantic_partial_matches": [],
+      "missing_requirements": [
+        "React",
+        "Next.js",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "Python",
+        "FastAPI",
+        "Django",
+        "REST APIs",
+        "GraphQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "AWS",
+        "GCP basics",
+        "CI/CD pipelines",
+        "Git",
+        "Computer Science Degree",
+        "1-3 years of Web Development experience"
+      ],
+      "justification": "The candidate has a specialized background in Electronics and Communication Engineering (VLSI), ASIC Physical Design, and PCB Design with no overlap with full-stack web development technologies. There is a complete mismatch in core technical stack, educational focus, and domain experience.",
+      "created_at": "2026-08-24T07:41:08.843Z"
+    },
+    {
+      "id": "scr_1787556591819_c85e963b",
+      "candidate_name": "SUMALA KEERTHANA",
+      "job_title": "AI / Data Science Engineer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 21.4,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 55,
+        "final_score": 61.3,
+        "rating_out_of_10": 6.1,
+        "score_out_of_ten": 6.1
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [
+        "python",
+        "sql",
+        "prompt engineering"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "large language models (llms)",
+        "vector databases",
+        "pytorch",
+        "tensorflow",
+        "machine learning model evaluation",
+        "data pipelines",
+        "etl",
+        "cloud storage (aws/gcp)"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "Python",
+        "SQL",
+        "Prompt Engineering",
+        "Generative AI",
+        "Bachelor's degree in Computer Science"
+      ],
+      "semantic_partial_matches": [
+        "AI/ML project exposure (Resume Screening Assistant utilizing Generative AI)",
+        "Core programming foundations (Java, C, C++, Data Structures)"
+      ],
+      "missing_requirements": [
+        "Pandas and NumPy",
+        "Scikit-Learn",
+        "Large Language Models (LLMs) hands-on implementation",
+        "Vector Databases",
+        "PyTorch or TensorFlow",
+        "Machine learning model evaluation",
+        "Data Pipelines and ETL",
+        "Cloud Storage (AWS/GCP)"
+      ],
+      "justification": "The candidate has a strong academic background in Computer Science and foundational knowledge in Python, SQL, and Prompt Engineering, alongside a relevant Generative AI project. However, the candidate lacks crucial technical requirements for an AI/Data Science Engineer role, such as data science libraries (Pandas, NumPy, Scikit-Learn), deep learning frameworks (PyTorch, TensorFlow), vector databases, and cloud experience.",
+      "created_at": "2026-08-24T07:29:51.819Z"
+    },
+    {
+      "id": "scr_1787556591137_29f46694",
+      "candidate_name": "Vijay Kumar Doddaka",
+      "job_title": "AI / Data Science Engineer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 7.1,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 30,
+        "final_score": 50,
+        "rating_out_of_10": 5,
+        "score_out_of_ten": 5
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [],
+      "partial_required_skills": [
+        "sql",
+        "etl"
+      ],
+      "missing_required_skills": [
+        "python",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "large language models (llms)",
+        "prompt engineering",
+        "vector databases",
+        "pytorch",
+        "tensorflow",
+        "machine learning model evaluation",
+        "data pipelines",
+        "cloud storage (aws/gcp)"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "SQL / Database Management",
+        "Bachelor of Technology in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "HTML, CSS, JavaScript (Transferable general programming logic)",
+        "NoSQL (Transferable to NoSQL vector databases concepts)"
+      ],
+      "missing_requirements": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Scikit-Learn",
+        "Large Language Models (LLMs)",
+        "Prompt Engineering",
+        "Vector Databases",
+        "PyTorch",
+        "TensorFlow",
+        "Machine learning model evaluation",
+        "Data Pipelines",
+        "ETL",
+        "Cloud Storage (AWS/GCP)"
+      ],
+      "justification": "Vijay Kumar Doddaka is a Full Stack and Frontend Developer with expertise in React.js, HTML/CSS, and JavaScript. However, the target role requires a specialized AI/Data Science Engineer proficient in Python, machine learning libraries (PyTorch, TensorFlow, Scikit-Learn), LLMs, and data engineering tools (Pandas, NumPy, ETL), resulting in a major skill gap.",
+      "created_at": "2026-08-24T07:29:51.137Z"
+    },
+    {
+      "id": "scr_1787556491891_9305b4d9",
+      "candidate_name": "Priya Sharma",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 20,
+        "preferred_skills": 100,
+        "education": 70,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 45,
+        "final_score": 55.3,
+        "rating_out_of_10": 5.5,
+        "score_out_of_ten": 5.5
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [
+        "python",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "java",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "relational databases",
+        "rest apis",
+        "git",
+        "problem-solving skills"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "Python",
+        "SQL"
+      ],
+      "semantic_partial_matches": [
+        "Problem-solving skills (demonstrated via data analysis and modeling projects)"
+      ],
+      "missing_requirements": [
+        "Java",
+        "JavaScript",
+        "React",
+        "Data Structures and Algorithms",
+        "Relational databases (beyond basic SQL)",
+        "REST APIs",
+        "Git",
+        "B.Tech / B.E. in Computer Science or IT"
+      ],
+      "justification": "Priya has a strong foundational background in Statistics with basic Python and SQL skills, but lacks core software development competencies such as Java, JavaScript, React, REST APIs, Git, and formal Computer Science education required for a Software Developer Intern role.",
+      "created_at": "2026-08-24T07:28:11.892Z"
+    },
+    {
+      "id": "scr_1787556491791_2cbe4732",
+      "candidate_name": "Alex Chen",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 80,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 90,
+        "final_score": 90.5,
+        "rating_out_of_10": 9.1,
+        "score_out_of_ten": 9.1
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql",
+        "rest apis",
+        "git"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "relational databases",
+        "problem-solving skills"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures & Algorithms",
+        "SQL",
+        "REST APIs",
+        "Git",
+        "B.Tech in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "Relational databases (implied via SQL knowledge, though direct DB management experience isn't highlighted in projects)",
+        "Problem-solving skills (demonstrated through coursework and Algorithm Visualizer project)"
+      ],
+      "missing_requirements": [
+        "Explicit enterprise-grade or production relational database management experience"
+      ],
+      "justification": "Alex Chen is an exceptionally strong candidate for the Software Developer Intern role, meeting nearly all technical and educational requirements with a B.Tech in Computer Science and hands-on project experience in Java, Python, JavaScript, React, and SQL. The profile aligns perfectly with an entry-level position, requiring only minor validation of database design and problem-solving application during an interview.",
+      "created_at": "2026-08-24T07:28:11.791Z"
+    },
+    {
+      "id": "scr_1787556491433_8ade67f6",
+      "candidate_name": "MARCUS VANCE",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 0,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 10,
+        "final_score": 42.5,
+        "rating_out_of_10": 4.3,
+        "score_out_of_ten": 4.3
+      },
+      "recommendation": "Low Match (Not Shortlisted)",
+      "matched_required_skills": [],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql",
+        "relational databases",
+        "rest apis",
+        "git",
+        "problem-solving skills"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [],
+      "semantic_partial_matches": [
+        "General problem-solving capability applied in visual design"
+      ],
+      "missing_requirements": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures and Algorithms",
+        "SQL",
+        "Relational databases",
+        "REST APIs",
+        "Git",
+        "B.Tech / B.E. in Computer Science or IT"
+      ],
+      "justification": "Marcus Vance is a graphic design graduate whose skills are entirely focused on visual arts and UI design (Photoshop, Illustrator, Figma), with zero background in software engineering, programming languages, or computer science. There is a fundamental mismatch between the candidate's profile and the technical requirements of the Software Developer Intern role.",
+      "created_at": "2026-08-24T07:28:11.434Z"
+    },
+    {
+      "id": "scr_1787556479852_9440bc86",
+      "candidate_name": "Keerthana S.",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 85.7,
+        "preferred_skills": 50,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 85,
+        "final_score": 88.8,
+        "rating_out_of_10": 8.9,
+        "score_out_of_ten": 8.9
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "relational databases"
+      ],
+      "matched_preferred_skills": [
+        "rest apis"
+      ],
+      "missing_preferred_skills": [
+        "git"
+      ],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures & Algorithms",
+        "SQL",
+        "REST APIs",
+        "Bachelor of Technology in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "MySQL (transferable to general relational databases required by the job)"
+      ],
+      "missing_requirements": [
+        "Git (preferred skill not explicitly listed in candidate profile)"
+      ],
+      "justification": "Keerthana S. is a strong candidate for the Software Developer Intern position, possessing nearly all required technical skills including Java, Python, JavaScript, React, SQL, and Data Structures & Algorithms. Her educational background in Computer Science aligns perfectly with the requirements, and her project portfolio demonstrates practical application through full-stack and backend development.",
+      "created_at": "2026-08-24T07:27:59.853Z"
+    },
+    {
+      "id": "scr_1787556166986_f1c98fe1",
+      "candidate_name": "Vijay Kumar Doddaka",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 22.7,
+        "preferred_skills": 25,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 68,
+        "final_score": 61.2,
+        "rating_out_of_10": 6.1,
+        "score_out_of_ten": 6.1
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [
+        "react"
+      ],
+      "partial_required_skills": [
+        "java",
+        "javascript",
+        "sql"
+      ],
+      "missing_required_skills": [
+        "python",
+        "typescript",
+        "node.js",
+        "relational databases",
+        "data structures",
+        "algorithms",
+        "object-oriented programming"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [
+        "rest apis",
+        "cloud platforms"
+      ],
+      "strong_matches": [
+        "JavaScript",
+        "React.js / React",
+        "SQL / Relational Databases",
+        "Git & GitHub",
+        "Bachelor's degree in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "NoSQL (transferable database knowledge)",
+        "Cloud platforms (Netlify/Render usage)",
+        "Frontend development substituting for full stack requirements"
+      ],
+      "missing_requirements": [
+        "Java",
+        "Python",
+        "TypeScript",
+        "Node.js",
+        "Data Structures & Algorithms (explicit mention or proficiency)",
+        "Object-Oriented Programming (explicit backend paradigm)"
+      ],
+      "justification": "Vijay brings a strong educational background in Computer Science and solid frontend/database project experience, making him a good candidate for an entry-level internship. However, he lacks proficiency in several core backend requirements like Java, Python, TypeScript, and Node.js, which impacts his direct readiness for the full scope of the role.",
+      "created_at": "2026-08-24T07:22:46.986Z"
+    },
+    {
+      "id": "scr_1787555917717_1b1b4315",
+      "candidate_name": "Gokavarapu Sai Lalithya",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 13.6,
+        "preferred_skills": 0,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 35,
+        "final_score": 48.5,
+        "rating_out_of_10": 4.8,
+        "score_out_of_ten": 4.8
+      },
+      "recommendation": "Low Match (Not Shortlisted)",
+      "matched_required_skills": [
+        "java"
+      ],
+      "partial_required_skills": [
+        "javascript"
+      ],
+      "missing_required_skills": [
+        "python",
+        "typescript",
+        "react",
+        "node.js",
+        "sql",
+        "relational databases",
+        "data structures",
+        "algorithms",
+        "object-oriented programming"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [
+        "rest apis",
+        "git",
+        "github",
+        "cloud platforms"
+      ],
+      "strong_matches": [
+        "Java",
+        "Object-Oriented Programming (via Java background)"
+      ],
+      "semantic_partial_matches": [
+        "Bachelor's degree in a related engineering discipline (Electronics and Communication Engineering)",
+        "Entry-level experience alignment"
+      ],
+      "missing_requirements": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Relational databases",
+        "Data Structures & Algorithms (as applied to software engineering roles)",
+        "REST APIs",
+        "Git/GitHub version control proficiency"
+      ],
+      "justification": "The candidate has an exceptionally strong academic and practical background in Electronics and Communication Engineering (VLSI and PCB Design), but the target role is a Software Developer Intern focused on full-stack web development and software engineering. Aside from a foundational knowledge of Java, the candidate lacks the required web technologies, databases, scripting languages, and software development frameworks essential for this role.",
+      "created_at": "2026-08-24T07:18:37.718Z"
+    },
+    {
+      "id": "scr_1787555917387_e8fd1b6f",
+      "candidate_name": "Pawar Sruthi",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 63.6,
+        "preferred_skills": 62.5,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 80,
+        "final_score": 80.4,
+        "rating_out_of_10": 8,
+        "score_out_of_ten": 8
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "node.js",
+        "sql",
+        "data structures"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "typescript",
+        "relational databases",
+        "algorithms",
+        "object-oriented programming"
+      ],
+      "matched_preferred_skills": [
+        "rest apis",
+        "git"
+      ],
+      "missing_preferred_skills": [
+        "cloud platforms"
+      ],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "SQL",
+        "Data Structures",
+        "Object-Oriented Programming (OOP)",
+        "REST APIs",
+        "Git",
+        "Bachelor's degree alignment in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "MongoDB (NoSQL transferable to Relational databases)",
+        "Entry-level internship profile matching academic standing"
+      ],
+      "missing_requirements": [
+        "TypeScript",
+        "Relational databases (SQL is known, but specific relational schema management/experience not highlighted)",
+        "Cloud platforms"
+      ],
+      "justification": "Pawar Sruthi is a strong candidate for the Software Developer Intern position, possessing an impressive academic background in Computer Science and solid foundational skills in Java, Python, JavaScript, and React/Node.js. While she is missing TypeScript and explicit relational database experience, her strong grasp of data structures, OOP, and full-stack project portfolio make her an excellent fit for an entry-level internship.",
+      "created_at": "2026-08-24T07:18:37.388Z"
+    },
+    {
+      "id": "scr_1787555916550_014747b6",
+      "candidate_name": "SUMALA KEERTHANA",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 54.5,
+        "preferred_skills": 0,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 70,
+        "final_score": 71.6,
+        "rating_out_of_10": 7.2,
+        "score_out_of_ten": 7.2
+      },
+      "recommendation": "Good Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "sql",
+        "data structures"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "typescript",
+        "node.js",
+        "relational databases",
+        "algorithms",
+        "object-oriented programming"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [
+        "rest apis",
+        "git",
+        "github",
+        "cloud platforms"
+      ],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "SQL",
+        "Data Structures",
+        "Object-Oriented Programming (OOPS)",
+        "Relevant Computer Science Bachelor's degree (in progress)"
+      ],
+      "semantic_partial_matches": [
+        "Generative AI and UI/UX design (transferable for modern application development)",
+        "C/C++ knowledge (transferable to backend/systems understanding)",
+        "Project portfolio demonstrating problem-solving capabilities"
+      ],
+      "missing_requirements": [
+        "TypeScript",
+        "Node.js",
+        "Relational databases (explicitly named, though SQL is known)",
+        "REST APIs",
+        "Git and GitHub"
+      ],
+      "justification": "Sumala Keerthana is a strong candidate for an entry-level internship, possessing core programming languages like Java, Python, and JavaScript, alongside foundational knowledge in Data Structures and OOPS. However, she lacks specific backend experience with Node.js, TypeScript, and version control tools like Git/GitHub, which are expected in the job requirements.",
+      "created_at": "2026-08-24T07:18:36.550Z"
+    },
+    {
+      "id": "scr_1787555638796_b0cf730d",
+      "candidate_name": "Priya Sharma",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 20,
+        "preferred_skills": 100,
+        "education": 70,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 45,
+        "final_score": 55.3,
+        "rating_out_of_10": 5.5,
+        "score_out_of_ten": 5.5
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [
+        "python",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "java",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "relational databases",
+        "rest apis",
+        "git",
+        "problem-solving"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "Python",
+        "SQL"
+      ],
+      "semantic_partial_matches": [
+        "Problem-solving (implied via Data Analysis and Machine Learning background)"
+      ],
+      "missing_requirements": [
+        "Java",
+        "JavaScript",
+        "React",
+        "Data Structures and Algorithms",
+        "Relational databases",
+        "REST APIs",
+        "Git",
+        "B.Tech / B.E. in Computer Science or IT"
+      ],
+      "justification": "Priya has a strong statistical and data-focused foundation with Python and SQL, but lacks core software engineering requirements such as Java, JavaScript, React, REST APIs, Git, and a Computer Science degree. She aligns better with a Data Analyst or Junior Data Scientist role than a Software Developer Intern position.",
+      "created_at": "2026-08-24T07:13:58.797Z"
+    },
+    {
+      "id": "scr_1787555638715_dcb86015",
+      "candidate_name": "Alex Chen",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 80,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 85,
+        "final_score": 89.3,
+        "rating_out_of_10": 8.9,
+        "score_out_of_ten": 8.9
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql",
+        "rest apis",
+        "git"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "relational databases",
+        "problem-solving"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures & Algorithms",
+        "REST APIs",
+        "Git",
+        "B.Tech in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "SQL (Listed in skills, but relational database practical application is limited to academic/project context)",
+        "Node.js (Complementary backend skill supporting full-stack capabilities)"
+      ],
+      "missing_requirements": [
+        "Formal enterprise experience with relational databases",
+        "Demonstrated production-level problem-solving or coding test score equivalents"
+      ],
+      "justification": "Alex Chen is a very strong fit for the Software Developer Intern role, possessing all core technical stack requirements and relevant educational credentials in Computer Science. The candidate's project portfolio successfully demonstrates hands-on application of React, Node.js, Java, and algorithms, aligning well with an entry-level internship profile.",
+      "created_at": "2026-08-24T07:13:58.716Z"
+    },
+    {
+      "id": "scr_1787555638614_5a539a8d",
+      "candidate_name": "MARCUS VANCE",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 0,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 10,
+        "final_score": 42.5,
+        "rating_out_of_10": 4.3,
+        "score_out_of_ten": 4.3
+      },
+      "recommendation": "Low Match (Not Shortlisted)",
+      "matched_required_skills": [],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql",
+        "relational databases",
+        "rest apis",
+        "git",
+        "problem-solving"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [],
+      "semantic_partial_matches": [
+        "Problem-solving (transferable from design thinking)"
+      ],
+      "missing_requirements": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures and Algorithms",
+        "SQL",
+        "Relational databases",
+        "REST APIs",
+        "Git",
+        "B.Tech / B.E. in Computer Science or IT"
+      ],
+      "justification": "The candidate has a background exclusively in graphic design and UI/UX with no software engineering skills, programming languages, or computer science education required for the Software Developer Intern role.",
+      "created_at": "2026-08-24T07:13:58.614Z"
+    },
+    {
+      "id": "scr_1787553823938_a275cce9",
+      "candidate_name": "SUMALA KEERTHANA",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "Software Developer Intern\r\n\r\nWe are looking for a Software Developer Intern.\r\n\r\nRequirements:\r\n\r\n- Strong knowledge of Java or Python\r\n- Knowledge of SQL\r\n- Good understanding of Data Structures and Algorithms\r\n- Experience with JavaScript\r\n- Knowledge of React or Node.js\r\n- Good problem-solving ski",
+      "scores": {
+        "required_skills": 68.8,
+        "preferred_skills": 0,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 70,
+        "final_score": 76.6,
+        "rating_out_of_10": 7.7,
+        "score_out_of_ten": 7.7
+      },
+      "recommendation": "Good Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "sql",
+        "javascript",
+        "react"
+      ],
+      "partial_required_skills": [
+        "data structures and algorithms"
+      ],
+      "missing_required_skills": [
+        "node.js",
+        "problem-solving"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [
+        "git",
+        "github",
+        "mongodb",
+        "rest apis"
+      ],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "SQL",
+        "JavaScript",
+        "React",
+        "Data Structures",
+        "Bachelor's degree in Computer Science and Engineering (in progress)"
+      ],
+      "semantic_partial_matches": [
+        "Problem-solving (demonstrated via academic projects and algorithms)",
+        "Generative AI & UI/UX Design (transferable to modern software solutions)"
+      ],
+      "missing_requirements": [
+        "Node.js",
+        "Git",
+        "GitHub",
+        "MongoDB",
+        "REST APIs"
+      ],
+      "justification": "Sumala Keerthana possesses a strong academic foundation in Computer Science and a solid core skill set overlapping with the internship requirements, including Java, Python, SQL, JavaScript, and React. However, she lacks explicit mention of backend technologies like Node.js and databases like MongoDB, as well as version control tools like Git/GitHub, which are expected for the role.",
+      "created_at": "2026-08-24T06:43:43.938Z"
+    },
+    {
+      "id": "scr_1787553722110_b97af838",
+      "candidate_name": "Candidate",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "Software Developer Intern\r\n\r\nWe are looking for a Software Developer Intern.\r\n\r\nRequirements:\r\n\r\n- Strong knowledge of Java or Python\r\n- Knowledge of SQL\r\n- Good understanding of Data Structures and Algorithms\r\n- Experience with JavaScript\r\n- Knowledge of React or Node.js\r\n- Good problem-solving ski",
+      "scores": {
+        "required_skills": 0,
+        "preferred_skills": 0,
+        "education": 50,
+        "experience": 100,
+        "projects": 60,
+        "semantic_score": 10,
+        "final_score": 28.5,
+        "rating_out_of_10": 2.9,
+        "score_out_of_ten": 2.9
+      },
+      "recommendation": "Low Match (Not Shortlisted)",
+      "matched_required_skills": [],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "java",
+        "python",
+        "sql",
+        "data structures and algorithms",
+        "javascript",
+        "react",
+        "node.js",
+        "problem-solving"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [
+        "git",
+        "github",
+        "mongodb",
+        "rest apis"
+      ],
+      "strong_matches": [],
+      "semantic_partial_matches": [],
+      "missing_requirements": [
+        "Java",
+        "Python",
+        "SQL",
+        "Data Structures and Algorithms",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Problem-solving",
+        "Bachelor's degree in Computer Science or related field"
+      ],
+      "justification": "The candidate profile is completely empty, lacking all required technical skills, educational background, and project experience necessary to evaluate or fulfill the Software Developer Intern role.",
+      "created_at": "2026-08-24T06:42:02.111Z"
+    },
+    {
+      "id": "scr_1787553507127_60ec8767",
+      "candidate_name": "JOHN DOE",
+      "job_title": "Junior Software Engineer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 100,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 60,
+        "semantic_score": 85,
+        "final_score": 92.3,
+        "rating_out_of_10": 9.2,
+        "score_out_of_ten": 9.2
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "react",
+        "node.js",
+        "sql",
+        "java"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "React",
+        "Node.js",
+        "SQL",
+        "Java",
+        "Junior experience level"
+      ],
+      "semantic_partial_matches": [
+        "Python as a transferable backend language",
+        "Git for version control"
+      ],
+      "missing_requirements": [],
+      "justification": "John Doe is a strong fit for the Junior Software Engineer role, possessing all required core technical skills (React, Node.js, SQL, Java), a relevant Bachelor of Science in Computer Science, and practical internship experience building full-stack applications.",
+      "created_at": "2026-08-24T06:38:27.128Z"
+    },
+    {
+      "id": "scr_1787553473630_a65ddb82",
+      "candidate_name": "Keerthana S.",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 85.7,
+        "preferred_skills": 50,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 85,
+        "final_score": 88.8,
+        "rating_out_of_10": 8.9,
+        "score_out_of_ten": 8.9
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "relational databases"
+      ],
+      "matched_preferred_skills": [
+        "rest apis"
+      ],
+      "missing_preferred_skills": [
+        "git"
+      ],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures & Algorithms",
+        "SQL",
+        "DBMS / Relational Databases",
+        "Bachelor of Technology in Computer Science"
+      ],
+      "semantic_partial_matches": [
+        "REST APIs (used in projects, preferred skill)",
+        "Node.js & Spring Boot (backend exposure supporting full-stack capabilities)"
+      ],
+      "missing_requirements": [
+        "Git (not explicitly mentioned in candidate skills or projects)"
+      ],
+      "justification": "Keerthana S. is an exceptionally strong candidate for the Software Developer Intern position. She meets nearly all required technical skills, possesses a relevant B.Tech degree in Computer Science with a strong academic standing, and demonstrates practical application through robust academic/personal projects.",
+      "created_at": "2026-08-24T06:37:53.630Z"
+    }
+  ]
+}

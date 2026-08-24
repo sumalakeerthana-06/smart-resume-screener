@@ -1,0 +1,46 @@
+SUMALA KEERTHANA
+# sumalakeerthana@gmail.com —  6302280256 — ï LinkedIn — § GitHub
+Profile
+I am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to
+impactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative
+club activities, I am eager to further develop my knowledge through practical applications in innovative tech
+environments
+Projects
+Resume Screening Assistant 2025
+• Intelligent Resume Analysis – Uses Generative AI to read, summarize, and extract key skills, experiences,
+and achievements from resumes, matching them against job requirements.
+• Smart Candidate Shortlisting – Automatically categorizes and ranks candidates by relevance, while reducing
+bias and adapting with recruiter feedback.
+Soft Computing Project 2025
+• Fuzzy Logic Navigation – Designed a drone navigation system that makes real-time flight decisions using
+fuzzy rules.
+• Genetic Algorithm Optimization – Enhanced path efficiency and obstacle avoidance by evolving the fuzzy
+control parameters.
+IOT Project 2024
+• Drowsiness Detection System Designed smart glasses with IR sensors using Arduino Nano.
+• Triggered alerts using a buzzer and relay when prolonged eye closure detected.
+Education
+VIT-AP University 2023–2027
+B.Tech in Computer Science and Engineering CGPA: 8.85/10
+RGUKT-IIIT,Idupulapaaya 2021–2023
+Class 12 – 96%
+Montessori Indus High School 2020
+SSC – 97%
+Clubs & Activities
+• IEI Chapter – Project & Research Member
+• CodeChef – Member
+• Math Club – Marketing Department
+Workshops
+• Attended a UI/UX Design Workshop conducted by NxtWave; learned basic UI/UX concepts and hands-
+on interface design using Figma.
+Certifications
+• Completed the IBM Generative AI Certification, covering Generative AI fundamentals, prompt engi-
+neering, and AI applications.
+Skills
+Programming: Java, Python, C, C++, SQL, HTML, CSS, JavaScript ,React
+Core Concepts: OOPS, Data Structures
+Languages Known: Telugu , English
+Extra curricular Activities: Actively Participated in technical clubs and marketing initiatives in college.
+
+-- 1 of 1 --
+

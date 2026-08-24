@@ -1,0 +1,42 @@
+{
+  "rating_out_of_10": 1.5,
+  "semantic_score": 15,
+  "strong_matches": [],
+  "partial_matches": [
+    "General engineering background from a recognized university"
+  ],
+  "missing_requirements": [
+    "React",
+    "Next.js",
+    "HTML5/CSS3",
+    "Tailwind CSS",
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "Python",
+    "FastAPI",
+    "Django",
+    "REST APIs",
+    "GraphQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "AWS",
+    "GCP",
+    "CI/CD pipelines",
+    "Git",
+    "Bachelor's in Computer Science",
+    "1-3 years of Full Stack Web Development experience"
+  ],
+  "justification": "The candidate's profile is exclusively focused on VLSI, ASIC Physical Design, and PCB Design, with an ECE background. There is a complete mismatch with the requirements for a Full Stack Web Developer position, which requires modern frontend, backend, cloud, and database technologies.",
+  "strengths_summary": [
+    "Strong academic record in Electronics and Communication Engineering (VLSI)",
+    "Hands-on experience in PCB design and physical ASIC design workflows"
+  ],
+  "recommended_upskilling": [
+    "Learn foundational web development technologies including HTML, CSS, JavaScript, and TypeScript",
+    "Gain proficiency in modern frontend frameworks (React, Next.js) and backend runtimes (Node.js, Python/Django)",
+    "Learn relational and non-relational databases, cloud services, and DevOps tools"
+  ]
+}

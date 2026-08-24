@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartHire AI | Intelligent Multi-Resume Screener & Candidate Ranker</title>
+
+    <!-- Google Fonts: Space Grotesk (Headings) + Plus Jakarta Sans (Body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300..800;1,300..800&family=Space+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Dynamic Animated Ambient Glow Orbs -->
+    <div class="ambient-glow glow-indigo"></div>
+    <div class="ambient-glow glow-cyan"></div>
+    <div class="ambient-glow glow-purple"></div>
+
+    <!-- Top Navigation Bar -->
+    <header class="navbar">
+        <div class="brand">
+            <div class="brand-logo">
+                <span class="logo-sparkle">✦</span>
+            </div>
+            <div class="brand-text">
+                <div class="brand-name">SmartHire <span class="brand-gradient">AI</span></div>
+                <div class="brand-tagline">Intelligent Talent Intelligence & Ranking Engine</div>
+            </div>
+        </div>
+
+        <!-- Center Navigation Tabs -->
+        <nav class="nav-tabs">
+            <button type="button" class="tab-btn active" id="tabScreening">
+                <span class="tab-icon">⚡</span>
+                <span class="tab-text">Screen Resumes</span>
+            </button>
+            <button type="button" class="tab-btn" id="tabDatabase">
+                <span class="tab-icon">📋</span>
+                <span class="tab-text">Candidate Database</span>
+                <span class="tab-badge" id="candidateCountBadge">0</span>
+            </button>
+        </nav>
+
+        <!-- Engine Status Badge -->
+        <div class="engine-status">
+            <span class="status-pulse"></span>
+            <span id="backendStatus" class="status-label">Gemini 3.5 AI Online</span>
+        </div>
+    </header>
+
+    <!-- Main Workspace Container -->
+    <main class="main-container">
+
+        <!-- ==================================================== -->
+        <!-- VIEW 1: RESUME SCREENING & BATCH RANKING WORKSPACE   -->
+        <!-- ==================================================== -->
+        <section id="viewScreening" class="view-panel active-view">
+            <!-- Hero Header Banner -->
+            <header class="hero-banner">
+                <div class="hero-badge">
+                    <span class="badge-dot"></span>
+                    <span>AI-POWERED RECRUITER ASSISTANT 2.0</span>
+                </div>
+                <h1 class="hero-title">
+                    Screen & Rank Resumes <br>
+                    <span class="gradient-text">With Explainable Semantic AI.</span>
+                </h1>
+                <p class="hero-subtitle">
+                    Upload multiple candidate resumes (PDF/TXT), match them against job requirements using deep contextual AI, and get an instant ranked leaderboard with multi-factor fit scoring.
+                </p>
+            </header>
+
+            <!-- 2-Column Input Workspace -->
+            <div class="workspace-grid">
+
+                <!-- STEP 1: CANDIDATE RESUMES INPUT PANEL -->
+                <div class="card panel-card">
+                    <div class="panel-header">
+                        <div class="panel-title-group">
+                            <span class="step-indicator">STEP 01</span>
+                            <h2>Candidate Resumes</h2>
+                        </div>
+                        <div class="input-mode-switch">
+                            <button type="button" class="mode-btn active" id="modeFileUpload">📁 Upload Files</button>
+                            <button type="button" class="mode-btn" id="modeTextPaste">📝 Paste Text</button>
+                        </div>
+                    </div>
+
+                    <!-- Multi-File Upload Area -->
+                    <div id="fileUploadContainer" class="mode-container">
+                        <div class="dropzone" id="uploadZone">
+                            <input type="file" id="resume" multiple accept=".pdf,.txt,.text,.md,application/pdf,text/plain" hidden>
+                            <div class="dropzone-icon-wrapper">
+                                <div class="dropzone-icon">📄</div>
+                            </div>
+                            <h3 class="dropzone-title">Drop your resumes here</h3>
+                            <p class="dropzone-desc">Drag & drop single or multiple resumes, or <button type="button" class="browse-link" id="browseButton">browse files</button></p>
+                            <div class="file-badges-info">
+                                <span class="format-pill">PDF</span>
+                                <span class="format-pill">TXT</span>
+                                <span class="format-pill">Up to 20 files</span>
+                                <span class="format-pill">Max 25 MB</span>
+                            </div>
+                        </div>
+
+                        <!-- Selected Files Chips Area -->
+                        <div class="selected-files-bar hidden" id="selectedFilesHeader">
+                            <div class="selected-count-label">
+                                <span class="check-icon">✓</span>
+                                <span>Selected Resumes: <strong id="selectedFileCount">0</strong></span>
+                            </div>
+                            <button type="button" class="clear-all-btn" id="clearFilesBtn">✕ Clear All</button>
+                        </div>
+                        <div class="file-chips-grid" id="fileChipsContainer"></div>
+                    </div>
+
+                    <!-- Direct Text Paste Area -->
+                    <div id="textPasteContainer" class="mode-container hidden">
+                        <textarea id="resumeText" class="styled-textarea" placeholder="Paste candidate resume text here.
+
+To screen multiple candidates in text mode, separate them with '---' on a new line:
+
+Candidate 1 Name
+Skills: Java, React, SQL, Problem Solving...
+---
+Candidate 2 Name
+Skills: Python, Machine Learning, Docker, Cloud..."></textarea>
+                        <div class="textarea-footer">
+                            <span id="resumeCharCount">0 characters</span>
+                            <span class="tip-text">💡 Separate multiple candidates with '---'</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- STEP 2: JOB REQUIREMENTS PANEL -->
+                <div class="card panel-card">
+                    <div class="panel-header">
+                        <div class="panel-title-group">
+                            <span class="step-indicator">STEP 02</span>
+                            <h2>Job Description</h2>
+                        </div>
+                        <span class="step-number-tag">02</span>
+                    </div>
+
+                    <!-- Preset Sample JDs Quick Bar -->
+                    <div class="presets-wrapper">
+                        <span class="presets-title">⚡ Quick Templates:</span>
+                        <div class="presets-chips">
+                            <button type="button" class="preset-chip" data-preset="sde">💻 Software Dev</button>
+                            <button type="button" class="preset-chip" data-preset="fullstack">🌐 Full Stack</button>
+                            <button type="button" class="preset-chip" data-preset="data">🤖 AI / Data Eng</button>
+                            <button type="button" class="preset-chip" data-preset="cloud">☁️ Cloud / DevOps</button>
+                        </div>
+                    </div>
+
+                    <textarea id="jobDescription" class="styled-textarea" placeholder="Paste the target job description here...
+
+Example:
+We are looking for a Software Developer Intern with strong Java, Python, React, and SQL skills. Must have solid problem-solving ability, Computer Science background, and familiarity with REST APIs..."></textarea>
+
+                    <div class="textarea-footer">
+                        <span id="characterCount">0 characters</span>
+                        <span class="tip-text">✨ AI automatically parses mandatory & preferred skills</span>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Action / Submit Trigger -->
+            <div class="action-cta-wrapper">
+                <button type="button" id="screenButton" class="glow-submit-btn">
+                    <span class="btn-sparkle">✦</span>
+                    <span id="btnText" class="btn-label">Analyze & Rank Candidates</span>
+                    <span class="btn-arrow">→</span>
+                </button>
+
+                <!-- Animated Loading & Multi-Step Progress Tracker -->
+                <div id="loading" class="loading-state hidden">
+                    <div class="loading-spinner-ring"></div>
+                    <div class="loading-text-group">
+                        <div class="loading-heading">AI is Analyzing Candidate Competencies...</div>
+                        <div class="loading-step-msg">
+                            <span class="step-pulse-dot"></span>
+                            <span id="loadingStep">Parsing candidate resumes...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- RESULTS CONTAINER (LEADERBOARD + DETAILED REPORT) -->
+            <section id="result" class="results-dashboard hidden">
+                <!-- Result HTML dynamically injected by script.js -->
+            </section>
+        </section>
+
+        <!-- ==================================================== -->
+        <!-- VIEW 2: CANDIDATE SHORTLIST & DATABASE VIEW         -->
+        <!-- ==================================================== -->
+        <section id="viewDatabase" class="view-panel hidden-view">
+            <header class="database-header">
+                <div>
+                    <div class="hero-badge">
+                        <span class="badge-dot"></span>
+                        <span>PERSISTENT STORAGE ENGINE</span>
+                    </div>
+                    <h2 class="db-title">Candidate Shortlist & Database</h2>
+                    <p class="db-subtitle">All screened candidates, score breakdowns, and AI justifications stored securely in database.</p>
+                </div>
+                <button type="button" class="refresh-database-btn" id="refreshDbBtn">
+                    <span class="refresh-icon">↻</span> Refresh Database
+                </button>
+            </header>
+
+            <!-- Dashboard Analytics Stat Cards -->
+            <div class="analytics-grid">
+                <div class="card stat-card stat-total">
+                    <div class="stat-icon-box">👥</div>
+                    <div class="stat-content">
+                        <div class="stat-label">Total Screened</div>
+                        <div class="stat-number" id="statTotalScreened">0</div>
+                    </div>
+                </div>
+
+                <div class="card stat-card stat-shortlist">
+                    <div class="stat-icon-box">⭐</div>
+                    <div class="stat-content">
+                        <div class="stat-label">Shortlisted Candidates</div>
+                        <div class="stat-number" id="statShortlisted">0</div>
+                    </div>
+                </div>
+
+                <div class="card stat-card stat-average">
+                    <div class="stat-icon-box">🎯</div>
+                    <div class="stat-content">
+                        <div class="stat-label">Average Match Score</div>
+                        <div class="stat-number" id="statAvgScore">0%</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Database Search & Filter Toolbar -->
+            <div class="card db-toolbar">
+                <div class="search-input-wrapper">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="dbSearchInput" placeholder="Search candidates by name, job title, or matched skills...">
+                </div>
+
+                <div class="filter-controls">
+                    <select id="dbRecommendationFilter" class="custom-select">
+                        <option value="all">🌟 All Recommendations</option>
+                        <option value="Strong">⭐ Strong Match (Shortlisted)</option>
+                        <option value="Good">👍 Good Match (Shortlisted)</option>
+                        <option value="Moderate">📋 Moderate Match (Review)</option>
+                        <option value="Low">✕ Low Match</option>
+                    </select>
+
+                    <select id="dbScoreFilter" class="custom-select">
+                        <option value="0">📊 All Scores (0%+)</option>
+                        <option value="80">🏆 Top Fit (80%+)</option>
+                        <option value="70">⭐ Shortlisted (70%+)</option>
+                        <option value="50">📋 Moderate (50%+)</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Candidates Table Container -->
+            <div class="card table-card">
+                <div class="table-responsive">
+                    <table class="modern-table">
+                        <thead>
+                            <tr>
+                                <th>Candidate</th>
+                                <th>Target Position</th>
+                                <th>Match Score</th>
+                                <th>Status</th>
+                                <th>Top Matched Skills</th>
+                                <th>Screening Date</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="candidatesTableBody">
+                            <tr>
+                                <td colspan="7" class="table-empty-msg">Loading candidate database records...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Inspection Detail Modal -->
+    <div id="detailModal" class="modal-overlay hidden">
+        <div class="modal-backdrop" id="modalBackdrop"></div>
+        <div class="modal-dialog">
+            <div class="modal-header-bar">
+                <div class="modal-title-wrap">
+                    <span class="modal-badge">CANDIDATE INSPECTION</span>
+                    <h3 id="modalCandidateName">Candidate Screening Details</h3>
+                </div>
+                <button type="button" class="modal-close-trigger" id="modalCloseBtn">&times;</button>
+            </div>
+            <div class="modal-scroll-body" id="modalBody">
+                <!-- Injected dynamically by script.js -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-left">
+            <span class="footer-brand">SmartHire AI</span> · Explainable Multi-Resume Talent Screening Engine
+        </div>
+        <div class="footer-right">
+            Built with <strong>Node.js</strong> · <strong>Express</strong> · <strong>SQLite Storage</strong> · <strong>Google Gemini LLM</strong>
+        </div>
+    </footer>
+
+    <!-- Main Frontend Logic -->
+    <script src="script.js"></script>
+</body>
+
+</html>

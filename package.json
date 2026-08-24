@@ -1,0 +1,20 @@
+{
+  "name": "smart-resume-screener",
+  "version": "1.0.0",
+  "description": "Smart AI-Powered Resume Screener and Candidate Matcher",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "node backend/server.js",
+    "test": "node test_screener.js"
+  },
+  "keywords": [
+    "resume-screener",
+    "llm",
+    "gemini",
+    "talent-acquisition",
+    "recruitment-ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,26 @@
+Software Developer Intern
+
+We are looking for a Software Developer Intern.
+
+Requirements:
+
+- Strong knowledge of Java or Python
+- Knowledge of SQL
+- Good understanding of Data Structures and Algorithms
+- Experience with JavaScript
+- Knowledge of React or Node.js
+- Good problem-solving skills
+
+Education:
+
+Bachelor's degree in Computer Science or related field.
+
+Experience:
+
+0-2 years of experience or relevant academic projects.
+
+Preferred:
+
+- Git and GitHub
+- MongoDB
+- REST APIs
