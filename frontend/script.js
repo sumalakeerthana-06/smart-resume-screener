@@ -15,7 +15,6 @@ const tabDatabase = document.getElementById("tabDatabase");
 const viewScreening = document.getElementById("viewScreening");
 const viewDatabase = document.getElementById("viewDatabase");
 const candidateCountBadge = document.getElementById("candidateCountBadge");
-const backendStatus = document.getElementById("backendStatus");
 
 // Resume Input Elements
 const modeFileUpload = document.getElementById("modeFileUpload");
@@ -82,13 +81,11 @@ function checkHealth() {
         .then(res => res.json())
         .then(data => {
             if (data.status === "online") {
-                backendStatus.textContent = "Gemini 3.5 AI Online";
-                backendStatus.style.color = "#34d399";
+                console.log("✓ SmartHire AI Backend connected successfully:", data);
             }
         })
-        .catch(() => {
-            backendStatus.textContent = "Backend Connecting...";
-            backendStatus.style.color = "#fbbf24";
+        .catch(err => {
+            console.warn("Backend connecting...", err.message);
         });
 }
 

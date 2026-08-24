@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+
+    <!-- Core Icon Gradient -->
+    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="45%" stop-color="#4facfe" />
+      <stop offset="85%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <!-- Accent Emerald Gradient for Verification -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+
+    <!-- Outer Soft Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Base Rounded Badge -->
+  <rect x="5" y="5" width="90" height="90" rx="24" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="3" />
+
+  <!-- Background Ambient Glow Center -->
+  <circle cx="50" cy="50" r="28" fill="#6366f1" opacity="0.22" filter="url(#glow)" />
+
+  <!-- Smart Resume Document Base -->
+  <path d="M30 26 C30 23.8 31.8 22 34 22 L55 22 L70 37 L70 74 C70 76.2 68.2 78 66 78 L34 78 C31.8 78 30 76.2 30 74 Z" 
+        fill="#1e293b" 
+        stroke="url(#iconGrad)" 
+        stroke-width="3" 
+        stroke-linejoin="round" />
+
+  <!-- Folded Corner of Document -->
+  <path d="M55 22 L55 37 L70 37 Z" 
+        fill="#334155" 
+        stroke="url(#iconGrad)" 
+        stroke-width="2.5" 
+        stroke-linejoin="round" />
+
+  <!-- Resume Data Lines (Abstract Scanning) -->
+  <line x1="39" y1="44" x2="61" y2="44" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" opacity="0.8" />
+  <line x1="39" y1="52" x2="55" y2="52" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" opacity="0.8" />
+
+  <!-- Smart AI Talent Scan Orbit / Neural Node with Glow -->
+  <g filter="url(#glow)">
+    <!-- Dynamic AI Checkmark & Scanning Beam -->
+    <circle cx="58" cy="63" r="16" fill="#0f172a" stroke="url(#iconGrad)" stroke-width="2.5" />
+    <!-- Bright Verified Checkmark -->
+    <path d="M51 63.5 L56 68.5 L66 57" 
+          fill="none" 
+          stroke="url(#iconGrad)" 
+          stroke-width="3.5" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" />
+  </g>
+
+  <!-- Top Accent Smart Sparkle -->
+  <circle cx="34" cy="30" r="2.5" fill="#38bdf8" filter="url(#glow)" />
+</svg>
