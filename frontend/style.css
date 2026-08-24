@@ -106,7 +106,7 @@ body {
    TOP NAVIGATION BAR
    ====================================================== */
 .navbar {
-    height: 80px;
+    height: 86px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -126,8 +126,8 @@ body {
 }
 
 .brand-logo {
-    width: 54px;
-    height: 54px;
+    width: 58px;
+    height: 58px;
     display: flex;
     align-items: center;
     justify-content: center;
