@@ -1,8 +1,9 @@
-// ======================================================
-// SMARTHIRE AI - MULTI-RESUME BATCH SCREENER FRONTEND
-// ======================================================
+// Backend API Base URL:
+// - When running locally or full-stack, uses relative path ""
+// - When deployed on Vercel separately, uses window.BACKEND_URL or localStorage or falls back to relative/proxy
+const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+const API_BASE = window.BACKEND_URL || localStorage.getItem("BACKEND_URL") || (isLocal ? "" : "");
 
-const API_BASE = window.location.origin.includes("http") ? "" : "http://localhost:3000";
 
 // DOM Elements
 const tabScreening = document.getElementById("tabScreening");

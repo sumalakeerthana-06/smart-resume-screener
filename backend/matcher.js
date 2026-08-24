@@ -1,15 +1,16 @@
 const fs = require("fs");
+const path = require("path");
 
 // ------------------------------------
 // Read resume and job data
 // ------------------------------------
 
 const resume = JSON.parse(
-    fs.readFileSync("./resume.json", "utf-8")
+    fs.readFileSync(path.join(__dirname, "resume.json"), "utf-8")
 );
 
 const job = JSON.parse(
-    fs.readFileSync("./job.json", "utf-8")
+    fs.readFileSync(path.join(__dirname, "job.json"), "utf-8")
 );
 
 

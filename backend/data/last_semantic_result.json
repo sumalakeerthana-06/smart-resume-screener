@@ -1,42 +1,29 @@
 {
-  "rating_out_of_10": 1.5,
-  "semantic_score": 15,
-  "strong_matches": [],
+  "rating_out_of_10": 8.5,
+  "semantic_score": 85,
+  "strong_matches": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "React",
+    "Data Structures & Algorithms",
+    "SQL",
+    "B.Tech in Computer Science and Engineering"
+  ],
   "partial_matches": [
-    "General engineering background from a recognized university"
+    "REST APIs (used in projects)",
+    "MySQL (relational databases experience)"
   ],
   "missing_requirements": [
-    "React",
-    "Next.js",
-    "HTML5/CSS3",
-    "Tailwind CSS",
-    "TypeScript",
-    "Node.js",
-    "Express",
-    "Python",
-    "FastAPI",
-    "Django",
-    "REST APIs",
-    "GraphQL",
-    "PostgreSQL",
-    "MongoDB",
-    "Redis",
-    "Docker",
-    "AWS",
-    "GCP",
-    "CI/CD pipelines",
-    "Git",
-    "Bachelor's in Computer Science",
-    "1-3 years of Full Stack Web Development experience"
+    "Git (not explicitly mentioned in the resume skills or projects)"
   ],
-  "justification": "The candidate's profile is exclusively focused on VLSI, ASIC Physical Design, and PCB Design, with an ECE background. There is a complete mismatch with the requirements for a Full Stack Web Developer position, which requires modern frontend, backend, cloud, and database technologies.",
+  "justification": "Keerthana S. is an exceptional fit for the Software Developer Intern role, meeting nearly all core technical, educational, and experience requirements. Her project portfolio directly demonstrates her capability with React, Java, and AI integration, with only minor gaps like explicit Git proficiency to bridge.",
   "strengths_summary": [
-    "Strong academic record in Electronics and Communication Engineering (VLSI)",
-    "Hands-on experience in PCB design and physical ASIC design workflows"
+    "Strong academic background with an 8.9/10 GPA in B.Tech Computer Science and Engineering.",
+    "Comprehensive coverage of required programming languages including Java, Python, and JavaScript.",
+    "Practical project experience building full-stack web applications and RESTful APIs using React, Spring Boot, and MySQL."
   ],
   "recommended_upskilling": [
-    "Learn foundational web development technologies including HTML, CSS, JavaScript, and TypeScript",
-    "Gain proficiency in modern frontend frameworks (React, Next.js) and backend runtimes (Node.js, Python/Django)",
-    "Learn relational and non-relational databases, cloud services, and DevOps tools"
+    "Version control tools such as Git and GitHub for collaborative development workflows."
   ]
 }

@@ -1,77 +1,54 @@
 {
-  "name": "SUMALA KEERTHANA",
-  "email": "sumalakeerthana@gmail.com",
-  "phone": "6302280256",
+  "name": "Keerthana S.",
+  "email": "keerthana.s@example.com",
+  "phone": "+91 9876543210",
   "skills": [
     "Java",
     "Python",
-    "C",
-    "C++",
-    "SQL",
-    "HTML",
-    "CSS",
     "JavaScript",
+    "SQL",
     "React",
-    "OOPS",
-    "Data Structures",
-    "Generative AI",
-    "Prompt Engineering",
-    "UI/UX Design",
-    "Figma"
+    "HTML5",
+    "CSS3",
+    "REST APIs",
+    "Data Structures & Algorithms",
+    "Object-Oriented Programming (OOP)",
+    "DBMS",
+    "Node.js",
+    "AI",
+    "Spring Boot",
+    "MySQL"
   ],
-  "languages_known": [
-    "Telugu",
-    "English"
-  ],
+  "languages_known": [],
   "education": [
     {
-      "degree": "B.Tech",
+      "degree": "Bachelor of Technology (B.Tech)",
       "field": "Computer Science and Engineering",
-      "institution": "VIT-AP University",
-      "year": "2023–2027",
-      "grade": "8.85/10"
-    },
-    {
-      "degree": "Class 12",
-      "field": "",
-      "institution": "RGUKT-IIIT,Idupulapaaya",
-      "year": "2021–2023",
-      "grade": "96%"
-    },
-    {
-      "degree": "SSC",
-      "field": "",
-      "institution": "Montessori Indus High School",
-      "year": "2020",
-      "grade": "97%"
+      "institution": "ABC Institute of Technology",
+      "year": "2021-2025",
+      "grade": "8.9/10"
     }
   ],
   "experience": [],
   "projects": [
     {
-      "name": "Resume Screening Assistant",
-      "description": "Intelligent Resume Analysis – Uses Generative AI to read, summarize, and extract key skills, experiences, and achievements from resumes, matching them against job requirements. Smart Candidate Shortlisting – Automatically categorizes and ranks candidates by relevance, while reducing bias and adapting with recruiter feedback.",
+      "name": "Smart Resume Screener",
+      "description": "Built a web app analyzing resumes against job descriptions with AI matching and skill parsing.",
       "technologies": [
-        "Generative AI"
+        "React",
+        "Node.js",
+        "AI"
       ]
     },
     {
-      "name": "Soft Computing Project",
-      "description": "Fuzzy Logic Navigation – Designed a drone navigation system that makes real-time flight decisions using fuzzy rules. Genetic Algorithm Optimization – Enhanced path efficiency and obstacle avoidance by evolving the fuzzy control parameters.",
+      "name": "E-Commerce Platform",
+      "description": "Developed RESTful APIs and product catalog management system.",
       "technologies": [
-        "Fuzzy Logic",
-        "Genetic Algorithm"
-      ]
-    },
-    {
-      "name": "IOT Project",
-      "description": "Drowsiness Detection System Designed smart glasses with IR sensors using Arduino Nano. Triggered alerts using a buzzer and relay when prolonged eye closure detected.",
-      "technologies": [
-        "Arduino Nano",
-        "IOT",
-        "IR sensors"
+        "Java",
+        "Spring Boot",
+        "MySQL"
       ]
     }
   ],
-  "summary": "I am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to impactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative club activities, I am eager to further develop my knowledge through practical applications in innovative tech environments"
+  "summary": ""
 }

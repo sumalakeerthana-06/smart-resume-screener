@@ -2,9 +2,398 @@
   "meta": {
     "version": "1.0.0",
     "created_at": "2026-08-24T06:37:48.407Z",
-    "updated_at": "2026-08-24T12:22:26.868Z"
+    "updated_at": "2026-08-24T13:07:18.174Z"
   },
   "candidates": [
+    {
+      "id": "cand_1787576838161_c1ae4e5a",
+      "name": "Keerthana S.",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "React",
+        "HTML5",
+        "CSS3",
+        "REST APIs",
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "DBMS",
+        "Node.js",
+        "AI",
+        "Spring Boot",
+        "MySQL"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Technology (B.Tech)",
+          "field": "Computer Science and Engineering",
+          "institution": "ABC Institute of Technology",
+          "year": "2021-2025",
+          "grade": "8.9/10"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Smart Resume Screener",
+          "description": "Built a web app analyzing resumes against job descriptions with AI matching and skill parsing.",
+          "technologies": [
+            "React",
+            "Node.js",
+            "AI"
+          ]
+        },
+        {
+          "name": "E-Commerce Platform",
+          "description": "Developed RESTful APIs and product catalog management system.",
+          "technologies": [
+            "Java",
+            "Spring Boot",
+            "MySQL"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nKEERTHANA S.\nEmail: keerthana.s@example.com | Phone: +91 9876543210\nEducation:\nBachelor of Technology (B.Tech) in Computer Science and Engineering (2021-2025)\nABC Institute of Technology, CGPA: 8.9/10\n\nTechnical Skills:\n- Programming Languages: Java, Python, JavaScript, SQL\n- Web Technologies: React, HTML5, CSS3, REST APIs\n- Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS\n\nProjects:\n1. Smart Resume Screener (React, Node.js, AI):\n   Built a web app analyzing ",
+      "created_at": "2026-08-24T13:07:18.161Z"
+    },
+    {
+      "id": "cand_1787576522929_a5ca6c30",
+      "name": "Keerthana S.",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "React",
+        "HTML5",
+        "CSS3",
+        "REST APIs",
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "DBMS",
+        "Node.js",
+        "Spring Boot",
+        "MySQL",
+        "AI"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Technology (B.Tech)",
+          "field": "Computer Science and Engineering",
+          "institution": "ABC Institute of Technology",
+          "year": "2021-2025",
+          "grade": "8.9/10"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Smart Resume Screener",
+          "description": "Built a web app analyzing resumes against job descriptions with AI matching and skill parsing.",
+          "technologies": [
+            "React",
+            "Node.js",
+            "AI"
+          ]
+        },
+        {
+          "name": "E-Commerce Platform",
+          "description": "Developed RESTful APIs and product catalog management system.",
+          "technologies": [
+            "Java",
+            "Spring Boot",
+            "MySQL"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nKEERTHANA S.\nEmail: keerthana.s@example.com | Phone: +91 9876543210\nEducation:\nBachelor of Technology (B.Tech) in Computer Science and Engineering (2021-2025)\nABC Institute of Technology, CGPA: 8.9/10\n\nTechnical Skills:\n- Programming Languages: Java, Python, JavaScript, SQL\n- Web Technologies: React, HTML5, CSS3, REST APIs\n- Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS\n\nProjects:\n1. Smart Resume Screener (React, Node.js, AI):\n   Built a web app analyzing ",
+      "created_at": "2026-08-24T13:02:02.930Z"
+    },
+    {
+      "id": "cand_1787576399862_97157440",
+      "name": "SUMALA KEERTHANA",
+      "skills": [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "OOPS",
+        "Data Structures",
+        "Generative AI",
+        "Figma",
+        "Arduino Nano"
+      ],
+      "languages_known": [
+        "Telugu",
+        "English"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "VIT-AP University",
+          "year": "2023–2027",
+          "grade": "8.85/10"
+        },
+        {
+          "degree": "Class 12",
+          "field": "",
+          "institution": "RGUKT-IIIT,Idupulapaaya",
+          "year": "2021–2023",
+          "grade": "96%"
+        },
+        {
+          "degree": "SSC",
+          "field": "",
+          "institution": "Montessori Indus High School",
+          "year": "2020",
+          "grade": "97%"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Resume Screening Assistant",
+          "description": "Intelligent Resume Analysis using Generative AI to read, summarize, and extract key skills, experiences, and achievements from resumes, matching them against job requirements. Smart Candidate Shortlisting automatically categorizes and ranks candidates by relevance while reducing bias.",
+          "technologies": [
+            "Generative AI"
+          ]
+        },
+        {
+          "name": "Soft Computing Project",
+          "description": "Designed a drone navigation system that makes real-time flight decisions using fuzzy rules and enhanced path efficiency and obstacle avoidance using Genetic Algorithm Optimization.",
+          "technologies": [
+            "Fuzzy Logic",
+            "Genetic Algorithm"
+          ]
+        },
+        {
+          "name": "IOT Project",
+          "description": "Designed smart glasses with IR sensors using Arduino Nano for drowsiness detection and triggered alerts using a buzzer and relay.",
+          "technologies": [
+            "Arduino Nano",
+            "IOT",
+            "IR sensors"
+          ]
+        }
+      ],
+      "raw_text_preview": "SUMALA KEERTHANA\n# sumalakeerthana@gmail.com —  6302280256 — ï LinkedIn — § GitHub\nProfile\nI am an enthusiastic Computer Science and Engineering student committed to applying my technical skills to\nimpactful projects. With experience in developing AI-driven solutions and hands-on involvement in collaborative\nclub activities, I am eager to further develop my knowledge through practical applications in innovative tech\nenvironments\nProjects\nResume Screening Assistant 2025\n• Intelligent Resume Anal",
+      "created_at": "2026-08-24T12:59:59.862Z"
+    },
+    {
+      "id": "cand_1787576151148_5a684e63",
+      "name": "JOHN DOE",
+      "skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "React",
+        "Node.js",
+        "Git",
+        "REST APIs"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "field": "Computer Science",
+          "institution": "State University",
+          "year": "2024",
+          "grade": ""
+        }
+      ],
+      "experience": [
+        {
+          "company": "Tech Labs",
+          "role": "Full Stack Web Developer Intern",
+          "duration": "6 months",
+          "description": "Built responsive web interfaces and microservices using React and Node.js.",
+          "technologies": [
+            "React",
+            "Node.js"
+          ]
+        }
+      ],
+      "projects": [],
+      "raw_text_preview": "\nJOHN DOE\nEmail: john.doe@email.com | Phone: +1 555-0199\nEducation:\nBachelor of Science in Computer Science, State University, 2024\nTechnical Skills:\nJava, Python, SQL, React, Node.js, Git, REST APIs\nExperience & Projects:\nFull Stack Web Developer Intern at Tech Labs (6 months)\nBuilt responsive web interfaces and microservices using React and Node.js.\n",
+      "created_at": "2026-08-24T12:55:51.150Z"
+    },
+    {
+      "id": "cand_1787576135780_64919228",
+      "name": "Alex Chen",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "SQL",
+        "Data Structures & Algorithms",
+        "REST APIs",
+        "Git",
+        "Node.js"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "B.Tech",
+          "field": "Computer Science and Engineering",
+          "institution": "",
+          "year": "2025",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Full-Stack Web Application",
+          "description": "Full-stack web application developed using modern web technologies.",
+          "technologies": [
+            "React",
+            "Node.js"
+          ]
+        },
+        {
+          "name": "Algorithm Visualizer",
+          "description": "Visualizer for algorithms.",
+          "technologies": [
+            "Java"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nALEX CHEN\nEmail: alex.chen@email.com\nEducation: B.Tech in Computer Science and Engineering, 2025\nTechnical Skills: Java, Python, JavaScript, React, SQL, Data Structures & Algorithms, REST APIs, Git, Node.js\nProjects:\n- Full-Stack Web Application in React & Node.js\n- Algorithm Visualizer in Java\n",
+      "created_at": "2026-08-24T12:55:35.780Z"
+    },
+    {
+      "id": "cand_1787576135736_2cb957a2",
+      "name": "Priya Sharma",
+      "skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Data Analysis",
+        "Scikit-Learn"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "B.Sc",
+          "field": "Statistics",
+          "institution": "",
+          "year": "2024",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Customer Churn Prediction Model",
+          "description": "Developed a customer churn prediction model.",
+          "technologies": [
+            "Python",
+            "Scikit-Learn"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nPRIYA SHARMA\nEmail: priya.sharma@email.com\nEducation: B.Sc in Statistics, 2024\nTechnical Skills: Python, SQL, Pandas, NumPy, Machine Learning, Data Analysis\nProjects:\n- Customer Churn Prediction Model using Python and Scikit-Learn\n",
+      "created_at": "2026-08-24T12:55:35.736Z"
+    },
+    {
+      "id": "cand_1787576135142_6841af98",
+      "name": "MARCUS VANCE",
+      "skills": [
+        "Adobe Photoshop",
+        "Illustrator",
+        "Figma",
+        "UI/UX Wireframing",
+        "Typography",
+        "Logo Design"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Fine Arts",
+          "field": "Graphic Design",
+          "institution": "",
+          "year": "2023",
+          "grade": ""
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Brand Identity Redesign for Coffee Shop",
+          "description": "",
+          "technologies": []
+        }
+      ],
+      "raw_text_preview": "\nMARCUS VANCE\nEmail: marcus.v@email.com\nEducation: Bachelor of Fine Arts in Graphic Design, 2023\nTechnical Skills: Adobe Photoshop, Illustrator, Figma, UI/UX Wireframing, Typography, Logo Design\nProjects:\n- Brand Identity Redesign for Coffee Shop\n",
+      "created_at": "2026-08-24T12:55:35.143Z"
+    },
+    {
+      "id": "cand_1787576118257_1f056b38",
+      "name": "Keerthana S.",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "React",
+        "HTML5",
+        "CSS3",
+        "REST APIs",
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "DBMS",
+        "Node.js",
+        "Spring Boot",
+        "MySQL",
+        "AI"
+      ],
+      "languages_known": [],
+      "education": [
+        {
+          "degree": "Bachelor of Technology (B.Tech)",
+          "field": "Computer Science and Engineering",
+          "institution": "ABC Institute of Technology",
+          "year": "2021-2025",
+          "grade": "CGPA: 8.9/10"
+        }
+      ],
+      "experience": [],
+      "projects": [
+        {
+          "name": "Smart Resume Screener",
+          "description": "Built a web app analyzing resumes against job descriptions with AI matching and skill parsing.",
+          "technologies": [
+            "React",
+            "Node.js",
+            "AI"
+          ]
+        },
+        {
+          "name": "E-Commerce Platform",
+          "description": "Developed RESTful APIs and product catalog management system.",
+          "technologies": [
+            "Java",
+            "Spring Boot",
+            "MySQL"
+          ]
+        }
+      ],
+      "raw_text_preview": "\nKEERTHANA S.\nEmail: keerthana.s@example.com | Phone: +91 9876543210\nEducation:\nBachelor of Technology (B.Tech) in Computer Science and Engineering (2021-2025)\nABC Institute of Technology, CGPA: 8.9/10\n\nTechnical Skills:\n- Programming Languages: Java, Python, JavaScript, SQL\n- Web Technologies: React, HTML5, CSS3, REST APIs\n- Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS\n\nProjects:\n1. Smart Resume Screener (React, Node.js, AI):\n   Built a web app analyzing ",
+      "created_at": "2026-08-24T12:55:18.259Z"
+    },
     {
       "id": "cand_1787574146847_84a0eced",
       "name": "Gokavarapu Sai Lalithya",
@@ -1683,6 +2072,413 @@
     }
   ],
   "screenings": [
+    {
+      "id": "scr_1787576838174_27638908",
+      "candidate_name": "Keerthana S.",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 85.7,
+        "preferred_skills": 50,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 85,
+        "final_score": 88.8,
+        "rating_out_of_10": 8.9,
+        "score_out_of_ten": 8.9
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "relational databases"
+      ],
+      "matched_preferred_skills": [
+        "rest apis"
+      ],
+      "missing_preferred_skills": [
+        "git"
+      ],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures & Algorithms",
+        "SQL",
+        "B.Tech in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "REST APIs (used in projects)",
+        "MySQL (relational databases experience)"
+      ],
+      "missing_requirements": [
+        "Git (not explicitly mentioned in the resume skills or projects)"
+      ],
+      "justification": "Keerthana S. is an exceptional fit for the Software Developer Intern role, meeting nearly all core technical, educational, and experience requirements. Her project portfolio directly demonstrates her capability with React, Java, and AI integration, with only minor gaps like explicit Git proficiency to bridge.",
+      "created_at": "2026-08-24T13:07:18.174Z"
+    },
+    {
+      "id": "scr_1787576522951_70614887",
+      "candidate_name": "Keerthana S.",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 85.7,
+        "preferred_skills": 50,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 90,
+        "final_score": 90,
+        "rating_out_of_10": 9,
+        "score_out_of_ten": 9
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "relational databases"
+      ],
+      "matched_preferred_skills": [
+        "rest apis"
+      ],
+      "missing_preferred_skills": [
+        "git"
+      ],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures & Algorithms",
+        "SQL",
+        "DBMS (relational databases)",
+        "B.Tech in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "REST APIs (used in project work)",
+        "MySQL (relational database practical application)"
+      ],
+      "missing_requirements": [
+        "Git"
+      ],
+      "justification": "Keerthana S. is an exceptional fit for the Software Developer Intern role, fulfilling almost all core technical requirements including Java, Python, JavaScript, React, SQL, and Data Structures & Algorithms. Her educational background in B.Tech Computer Science aligns perfectly, and her project portfolio demonstrates practical application of these skills.",
+      "created_at": "2026-08-24T13:02:02.951Z"
+    },
+    {
+      "id": "scr_1787576399878_34c908b8",
+      "candidate_name": "SUMALA KEERTHANA",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 100,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 85,
+        "final_score": 96.3,
+        "rating_out_of_10": 9.6,
+        "score_out_of_ten": 9.6
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "react",
+        "python",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "React",
+        "SQL",
+        "Entry-level experience alignment (Current B.Tech student)"
+      ],
+      "semantic_partial_matches": [
+        "Generative AI applied project (demonstrating practical software development capability)",
+        "Object-Oriented Programming (OOPS) and Data Structures fundamentals"
+      ],
+      "missing_requirements": [],
+      "justification": "Sumala Keerthana is a strong candidate for the Software Developer Intern position, possessing all required core technical skills including Java, Python, React, and SQL. As a Computer Science undergraduate with solid academic standing and relevant project experience, she is well-suited for an entry-level internship.",
+      "created_at": "2026-08-24T12:59:59.878Z"
+    },
+    {
+      "id": "scr_1787576151182_b45fdd17",
+      "candidate_name": "JOHN DOE",
+      "job_title": "Junior Software Engineer",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 100,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 60,
+        "semantic_score": 85,
+        "final_score": 92.3,
+        "rating_out_of_10": 9.2,
+        "score_out_of_ten": 9.2
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "react",
+        "node.js",
+        "sql",
+        "java"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "React",
+        "Node.js",
+        "SQL",
+        "Java",
+        "Junior-level experience fit"
+      ],
+      "semantic_partial_matches": [
+        "Full Stack Web Developer internship aligning with junior software engineering expectations"
+      ],
+      "missing_requirements": [],
+      "justification": "John Doe possesses all the required core technical skills (React, Node.js, SQL, Java) and holds a relevant Bachelor of Science in Computer Science. His 6-month full-stack internship provides practical application that directly aligns with a junior software engineering role.",
+      "created_at": "2026-08-24T12:55:51.183Z"
+    },
+    {
+      "id": "scr_1787576135796_ae52837e",
+      "candidate_name": "Alex Chen",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 80,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 85,
+        "final_score": 89.3,
+        "rating_out_of_10": 8.9,
+        "score_out_of_ten": 8.9
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql",
+        "rest apis",
+        "git"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "relational databases",
+        "problem-solving"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures & Algorithms",
+        "SQL",
+        "REST APIs",
+        "Git",
+        "B.Tech in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "Node.js (used for full-stack web application, transfers well to backend development)",
+        "Project experience in lieu of professional work experience (appropriate for intern level)"
+      ],
+      "missing_requirements": [
+        "Explicitly stated relational databases experience (though SQL is known, hands-on RDBMS integration could be highlighted further)"
+      ],
+      "justification": "Alex Chen is an exceptional fit for the Software Developer Intern role, possessing all core technical requirements including Java, Python, JavaScript, React, and Data Structures & Algorithms. The candidate's B.Tech in Computer Science aligns perfectly with the educational requirements, making them a strong entry-level prospect.",
+      "created_at": "2026-08-24T12:55:35.797Z"
+    },
+    {
+      "id": "scr_1787576135751_a14790d7",
+      "candidate_name": "Priya Sharma",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 20,
+        "preferred_skills": 100,
+        "education": 70,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 45,
+        "final_score": 55.3,
+        "rating_out_of_10": 5.5,
+        "score_out_of_ten": 5.5
+      },
+      "recommendation": "Moderate Match (Review)",
+      "matched_required_skills": [
+        "python",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "java",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "relational databases",
+        "rest apis",
+        "git",
+        "problem-solving"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [
+        "Python",
+        "SQL",
+        "Data analysis and problem-solving foundation"
+      ],
+      "semantic_partial_matches": [
+        "Statistics background providing analytical skills transferable to Data Structures and Algorithms"
+      ],
+      "missing_requirements": [
+        "Java",
+        "JavaScript",
+        "React",
+        "Data Structures and Algorithms (formal)",
+        "Relational databases (beyond basic SQL)",
+        "REST APIs",
+        "Git",
+        "B.Tech / B.E. in Computer Science or IT"
+      ],
+      "justification": "While Priya has a strong analytical foundation with a B.Sc in Statistics and basic Python/SQL skills, she lacks the core software engineering stack required for the Software Developer Intern role, including Java, JavaScript, React, REST APIs, and Git.",
+      "created_at": "2026-08-24T12:55:35.751Z"
+    },
+    {
+      "id": "scr_1787576135155_c7590a3c",
+      "candidate_name": "MARCUS VANCE",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 0,
+        "preferred_skills": 100,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 10,
+        "final_score": 42.5,
+        "rating_out_of_10": 4.3,
+        "score_out_of_ten": 4.3
+      },
+      "recommendation": "Low Match (Not Shortlisted)",
+      "matched_required_skills": [],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql",
+        "relational databases",
+        "rest apis",
+        "git",
+        "problem-solving"
+      ],
+      "matched_preferred_skills": [],
+      "missing_preferred_skills": [],
+      "strong_matches": [],
+      "semantic_partial_matches": [],
+      "missing_requirements": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures and Algorithms",
+        "SQL",
+        "relational databases",
+        "REST APIs",
+        "Git",
+        "B.Tech / B.E. in Computer Science or IT"
+      ],
+      "justification": "The candidate has a background in Graphic Design and Fine Arts with skills strictly in UI/UX and visual design tools (Figma, Photoshop). The role is a Software Developer Intern requiring heavy programming in Java, Python, JavaScript, React, and computer science fundamentals, resulting in a fundamental misalignment.",
+      "created_at": "2026-08-24T12:55:35.155Z"
+    },
+    {
+      "id": "scr_1787576118266_22aafb97",
+      "candidate_name": "Keerthana S.",
+      "job_title": "Software Developer Intern",
+      "job_description_preview": "",
+      "scores": {
+        "required_skills": 85.7,
+        "preferred_skills": 50,
+        "education": 100,
+        "experience": 100,
+        "projects": 100,
+        "semantic_score": 85,
+        "final_score": 88.8,
+        "rating_out_of_10": 8.9,
+        "score_out_of_ten": 8.9
+      },
+      "recommendation": "Strong Match (Shortlisted)",
+      "matched_required_skills": [
+        "java",
+        "python",
+        "javascript",
+        "react",
+        "data structures and algorithms",
+        "sql"
+      ],
+      "partial_required_skills": [],
+      "missing_required_skills": [
+        "relational databases"
+      ],
+      "matched_preferred_skills": [
+        "rest apis"
+      ],
+      "missing_preferred_skills": [
+        "git"
+      ],
+      "strong_matches": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Data Structures & Algorithms",
+        "SQL",
+        "REST APIs",
+        "Bachelor of Technology in Computer Science and Engineering"
+      ],
+      "semantic_partial_matches": [
+        "MySQL (transferable to relational databases requirement)",
+        "Node.js and Spring Boot (demonstrates backend capability beyond basic requirements)"
+      ],
+      "missing_requirements": [
+        "Git"
+      ],
+      "justification": "Keerthana S. is an exceptionally strong candidate for the Software Developer Intern role, possessing all core programming languages, front-end and back-end framework experience, and a relevant B.Tech degree in Computer Science. Her project portfolio directly demonstrates practical application of required technologies like React, Java, Spring Boot, and SQL, leaving only minor tooling gaps like Git.",
+      "created_at": "2026-08-24T12:55:18.266Z"
+    },
     {
       "id": "scr_1787574146868_10f680e9",
       "candidate_name": "Gokavarapu Sai Lalithya",

@@ -6,7 +6,18 @@
   "scripts": {
     "start": "node backend/server.js",
     "server": "node backend/server.js",
-    "test": "node test_screener.js"
+    "test": "node test_screener.js",
+    "test:batch": "node test_batch_screener.js",
+    "test:api": "node test_api.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.18.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.1.0",
+    "multer": "^2.2.0",
+    "pdf-parse": "^2.4.5",
+    "pdfkit": "^0.20.1"
   },
   "keywords": [
     "resume-screener",
@@ -18,3 +29,4 @@
   "author": "",
   "license": "MIT"
 }
+
