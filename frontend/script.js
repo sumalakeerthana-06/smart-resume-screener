@@ -1,8 +1,12 @@
 // Backend API Base URL:
-// - When running locally or full-stack, uses relative path ""
-// - When deployed on Vercel separately, uses window.BACKEND_URL or localStorage or falls back to relative/proxy
+// - When running locally on localhost, uses local server relative path ""
+// - When deployed on Vercel, uses window.BACKEND_URL or defaults to your Render URL
+const DEFAULT_RENDER_URL = "https://smart-resume-screener-tmny.onrender.com";
 const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
-const API_BASE = window.BACKEND_URL || localStorage.getItem("BACKEND_URL") || (isLocal ? "" : "");
+const API_BASE = isLocal 
+    ? "" 
+    : (window.BACKEND_URL || localStorage.getItem("BACKEND_URL") || DEFAULT_RENDER_URL);
+
 
 
 // DOM Elements
